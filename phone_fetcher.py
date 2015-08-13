@@ -4,26 +4,25 @@ def get_names_and_numbers(html):
     nameNumList = [[],[]]
     
     nameStart = "ContactName"
-    nameEnd = "</a></span>"
+    nameSubStart = 'title="'
 
     numStart = "ContactPhone"
     
     appending = False
 
     for i in range(len(html)):
-        tmpstr = ""
-
         if html[i:i + len(numStart)] == numStart:
             appending = True
         
-        if appending and html[i:i + len(nameEnd)] == nameEnd:
-            j = i - 1
+        if appending and html[i:i + len(nameSubStart)] == nameSubStart:
+            tmpstr = ""
+            j = i + len(nameSubStart)
 
-            while html[j] != ">":
+            while html[j:j + len('">')] != '">':
                 tmpstr += html[j]
-                j -= 1
+                j += 1
 
-            nameNumList[0].append(tmpstr[::-1])
+            nameNumList[0].append(tmpstr)
             appending = False
     
     appending = False
@@ -55,5 +54,5 @@ if __name__ == '__main__':
     html = read_site_to_file(url)
     contacts = get_names_and_numbers(html)
     
-    for i in range(len(contacts[0])):
+    for i in range(len(contacts[1])):
         print(contacts[0][i] + ": " + contacts[1][i])
