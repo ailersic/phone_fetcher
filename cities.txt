@@ -1,0 +1,3427 @@
+1: 100 Mile House, British Columbia
+2: 108 Mile House, British Columbia
+3: 108 Mile Ranch, British Columbia
+4: 150 Mile House, British Columbia
+5: Abbey, Saskatchewan
+6: Abbotsford, British Columbia
+7: Aberarder, Ontario
+8: Abercorn, Quebec
+9: Aberdeen, Saskatchewan
+10: Abernethy, Saskatchewan
+11: Abitibi Canyon, Ontario
+12: Acadia Valley, Alberta
+13: Acme, Alberta
+14: Acton, Ontario
+15: Acton Vale, Quebec
+16: Adamsville, Quebec
+17: Adolphustown, Ontario
+18: Advocate Harbour, Nova Scotia
+19: Agassiz, British Columbia
+20: Agassiz Provincial Forest, Manitoba
+21: Aguanish, Quebec
+22: Ahousat, British Columbia
+23: Ailsa Craig, Ontario
+24: Airdrie, Alberta
+25: Ajax, Ontario
+26: Aklavik, Northwest Territories
+27: Alameda, Saskatchewan
+28: Alban, Ontario
+29: Albanel, Quebec
+30: Albert, New Brunswick
+31: Albert Mines, New Brunswick
+32: Alberta Beach, Alberta
+33: Alberton, Prince Edward Island
+34: Alder Flats, Alberta
+35: Aldergrove, British Columbia
+36: Alderville First Nation, Ontario
+37: Alert Bay, British Columbia
+38: Alexander, Manitoba
+39: Alexandria, Ontario
+40: Alexis Creek, British Columbia
+41: Alfred, Ontario
+42: Algoma Mills, Ontario
+43: Alida, Saskatchewan
+44: Alix, Alberta
+45: Alkali Lake, British Columbia
+46: Allan, Saskatchewan
+47: Allardville, New Brunswick
+48: Alliance, Alberta
+49: Alliston, Ontario
+50: Alma, New Brunswick
+51: Alma, Quebec
+52: Almonte, Ontario
+53: Alonsa, Manitoba
+54: Alouette, Quebec
+55: Alsask, Saskatchewan
+56: Altario, Alberta
+57: Altona, Manitoba
+58: Alvena, Saskatchewan
+59: Alvinston, Ontario
+60: Amherst, Nova Scotia
+61: Amherstburg, Ontario
+62: Amos, Quebec
+63: Amqui, Quebec
+64: Ancaster, Ontario
+65: Andrew, Alberta
+66: Aneroid, Saskatchewan
+67: Angliers, Quebec
+68: Angus, Ontario
+69: Anjou, Quebec
+70: Annapolis Royal, Nova Scotia
+71: Anse-Saint-Jean, Quebec
+72: Antigonish, Nova Scotia
+73: Anzac, Alberta
+74: Appleton, Newfoundland
+75: Apsley, Ontario
+76: Arborfield, Saskatchewan
+77: Arborg, Manitoba
+78: Archerwill, Saskatchewan
+79: Arcola, Saskatchewan
+80: Arden, Ontario
+81: Ardrossan, Alberta
+82: Argentia, Newfoundland
+83: Argyle, Nova Scotia
+84: Arichat, Nova Scotia
+85: Arkell, Ontario
+86: Arkona, Ontario
+87: Armagh, Quebec
+88: Armstrong, British Columbia
+89: Armstrong, Ontario
+90: Arnold's Cove, Newfoundland
+91: Arnprior, Ontario
+92: Arrowwood, Alberta
+93: Arthur, Ontario
+94: Arundel, Quebec
+95: Arviat, Nunavut
+96: Asbestos, Quebec
+97: Ascot, Quebec
+98: Ascot Corner, Quebec
+99: Ashcroft, British Columbia
+100: Ashern, Manitoba
+101: Ashmont, Alberta
+102: Ashuapmushuan, Quebec
+103: Asquith, Saskatchewan
+104: Assiniboia, Saskatchewan
+105: Assumption, Alberta
+106: Aston-Jonction, Quebec
+107: Athabasca, Alberta
+108: Athens, Ontario
+109: Atikokan, Ontario
+110: Atlin, British Columbia
+111: Attawapiskat, Ontario
+112: Atwood, Ontario
+113: Auburn, Ontario
+114: Aurora, Ontario
+115: Austin, Manitoba
+116: Avola, British Columbia
+117: Avondale, Newfoundland
+118: Avonlea, Saskatchewan
+119: Avonmore, Ontario
+120: Ayer's Cliff, Quebec
+121: Aylesford, Nova Scotia
+122: Aylmer, Ontario
+123: Aylmer, Quebec
+124: Ayr, Ontario
+125: Ayton, Ontario
+126: Azilda, Ontario
+127: Baddeck, Nova Scotia
+128: Baden, Ontario
+129: Badger, Newfoundland
+130: Bagotville, Quebec
+131: Baie Verte, Newfoundland
+132: Baie-Comeau, Quebec
+133: Baie-de-Shawinigan, Quebec
+134: Baie-des-Sables, Quebec
+135: Baie-du-Febvre, Quebec
+136: Baie-d'Urfe, Quebec
+137: Baie-Johan-Beetz, Quebec
+138: Baie-Sainte-Catherine, Quebec
+139: Baie-St-Paul, Quebec
+140: Baie-Ste-Anne, New Brunswick
+141: Baie-Trinite, Quebec
+142: Bailieboro, Ontario
+143: Baker Brook, New Brunswick
+144: Baker Lake, Nunavut
+145: Bala, Ontario
+146: Balcarres, Saskatchewan
+147: Baldur, Manitoba
+148: Balfour, British Columbia
+149: Balgonie, Saskatchewan
+150: Balmertown, Ontario
+151: Balmoral, New Brunswick
+152: Baltimore, Ontario
+153: Bamfield, British Columbia
+154: Bancroft, Ontario
+155: Banff, Alberta
+156: Barachois, Quebec
+157: Barkmere, Quebec
+158: Barons, Alberta
+159: Barraute, Quebec
+160: Barrhead, Alberta
+161: Barrie, Ontario
+162: Barriere, British Columbia
+163: Barry's Bay, Ontario
+164: Barwick, Ontario
+165: Bashaw, Alberta
+166: Bass River, Nova Scotia
+167: Bassano, Alberta
+168: Basswood, Manitoba
+169: Batawa, Ontario
+170: Batchawana Bay, Ontario
+171: Bath, New Brunswick
+172: Bath, Ontario
+173: Bathurst, New Brunswick
+174: Batiscan, Quebec
+175: Batteau, Newfoundland
+176: Battle Harbour, Newfoundland
+177: Battleford, Saskatchewan
+178: Bauline, Newfoundland
+179: Bawlf, Alberta
+180: Bay Bulls, Newfoundland
+181: Bay de Verde, Newfoundland
+182: Bay L'Argent, Newfoundland
+183: Bay Roberts, Newfoundland
+184: Bayfield, Ontario
+185: Baysville, Ontario
+186: Beach Grove, British Columbia
+187: Beachburg, Ontario
+188: Beachville, Ontario
+189: Beaconsfield, Quebec
+190: Beamsville, Ontario
+191: Bear Canyon, Alberta
+192: Bear Lake, British Columbia
+193: Bear River, Nova Scotia
+194: Beardmore, Ontario
+195: Bearskin Lake, Ontario
+196: Bearskin Lake First Nation, Ontario
+197: Bear's Passage, Ontario
+198: Beaucanton, Quebec
+199: Beauceville, Quebec
+200: Beauharnois, Quebec
+201: Beaulac-Garthby, Quebec
+202: Beaumont, Alberta
+203: Beaumont, Newfoundland
+204: Beaumont, Quebec
+205: Beauport, Quebec
+206: Beaupre, Quebec
+207: Beausejour, Manitoba
+208: Beauval, Saskatchewan
+209: Beaver Cove, British Columbia
+210: Beaver Creek, Yukon
+211: Beaverdell, British Columbia
+212: Beaverlodge, Alberta
+213: Beaverton, Ontario
+214: Becancour, Quebec
+215: Bedeque, Prince Edward Island
+216: Bedford, Quebec
+217: Beechy, Saskatchewan
+218: Beeton, Ontario
+219: Beiseker, Alberta
+220: Bell Island, Newfoundland
+221: Bella Bella, British Columbia
+222: Bella Coola, British Columbia
+223: Belle Neige, Quebec
+224: Belle River, Ontario
+225: Belledune, New Brunswick
+226: Bellefeuille, Quebec
+227: Belleoram, Newfoundland
+228: Belleterre, Quebec
+229: Belleville, Ontario
+230: Bellevue, Newfoundland
+231: Belmont, Manitoba
+232: Belmont, Ontario
+233: Beloeil, Quebec
+234: Bengough, Saskatchewan
+235: Benito, Manitoba
+236: Benoit's Cove, Newfoundland
+237: Bentley, Alberta
+238: Berens River, Manitoba
+239: Beresford, New Brunswick
+240: Bergeronnes, Quebec
+241: Berthierville, Quebec
+242: Berwick, Nova Scotia
+243: Berwyn, Alberta
+244: Bethany, Ontario
+245: Bethesda, Ontario
+246: Bethune, Saskatchewan
+247: Betsiamites, Quebec
+248: Beulah, Manitoba
+249: Biencourt, Quebec
+250: Bienfait, Saskatchewan
+251: Big River, Saskatchewan
+252: Big Trout Lake, Ontario
+253: Big Valley, Alberta
+254: Biggar, Saskatchewan
+255: Binbrook, Ontario
+256: Bindloss, Alberta
+257: Binscarth, Manitoba
+258: Birch Hills, Saskatchewan
+259: Birch Island, Ontario
+260: Birchy Bay, Newfoundland
+261: Birsay, Saskatchewan
+262: Birtle, Manitoba
+263: Biscotasing, Ontario
+264: Bishopton, Quebec
+265: Bishop's Falls, Newfoundland
+266: Bissett, Manitoba
+267: Black Creek, British Columbia
+268: Black Diamond, Alberta
+269: Black Duck Cove, Newfoundland
+270: Black Lake, Quebec
+271: Black Point, British Columbia
+272: Black Tickle, Newfoundland
+273: Blackfalds, Alberta
+274: Blackie, Alberta
+275: Blacks Harbour, New Brunswick
+276: Blackstock, Ontario
+277: Blackville, New Brunswick
+278: Blaine Lake, Saskatchewan
+279: Blainville, Quebec
+280: Blanc-Sablon, Quebec
+281: Blandford, Nova Scotia
+282: Blenheim, Ontario
+283: Blezard Valley, Ontario
+284: Blind River, Ontario
+285: Bloomfield, Ontario
+286: Blue Ridge, Alberta
+287: Blue River, British Columbia
+288: Blyth, Ontario
+289: Bob Quinn Lake, British Columbia
+290: Bobcaygeon, Ontario
+291: Boiestown, New Brunswick
+292: Bois-des-Filion, Quebec
+293: Boisbriand, Quebec
+294: Boischatel, Quebec
+295: Boisdale, Nova Scotia
+296: Boissevain, Manitoba
+297: Bolton, Ontario
+298: Bon Accord, Alberta
+299: Bonanza, Alberta
+300: Bonaventure, Quebec
+301: Bonavista, Newfoundland
+302: Bonfield, Ontario
+303: Bonne-Esperance, Quebec
+304: Bonnyville, Alberta
+305: Borden, Ontario
+306: Borden, Prince Edward Island
+307: Borden, Saskatchewan
+308: Boston Bar, British Columbia
+309: Boswell, British Columbia
+310: Bothwell, Ontario
+311: Botwood, Newfoundland
+312: Boucherville, Quebec
+313: Bouchette, Quebec
+314: Bouctouche, New Brunswick
+315: Boularderie, Nova Scotia
+316: Bourget, Ontario
+317: Bow Island, Alberta
+318: Bowden, Alberta
+319: Bowen Island, British Columbia
+320: Bowmanville, Ontario
+321: Bowser, British Columbia
+322: Boyd's Cove, Newfoundland
+323: Boyle, Alberta
+324: Bracebridge, Ontario
+325: Bradford, Ontario
+326: Bradford West Gwillimbury, Ontario
+327: Braeside, Ontario
+328: Bragg Creek, Alberta
+329: Brampton, Ontario
+330: Branch, Newfoundland
+331: Brandon, Manitoba
+332: Brantford, Ontario
+333: Breakeyville, Quebec
+334: Brechin, Ontario
+335: Bredenbury, Saskatchewan
+336: Brent's Cove, Newfoundland
+337: Breslau, Ontario
+338: Breton, Alberta
+339: Bridge Lake, British Columbia
+340: Bridgenorth, Ontario
+341: Bridgetown, Nova Scotia
+342: Bridgewater, Nova Scotia
+343: Briercrest, Saskatchewan
+344: Brigden, Ontario
+345: Brigham, Quebec
+346: Bright, Ontario
+347: Brighton, Ontario
+348: Brights Grove, Ontario
+349: Brigus, Newfoundland
+350: Britannia Beach, British Columbia
+351: Britt, Ontario
+352: Broadview, Saskatchewan
+353: Brochet, Manitoba
+354: Brock, Saskatchewan
+355: Brocket, Alberta
+356: Brockville, Ontario
+357: Brome, Quebec
+358: Bromont, Quebec
+359: Bromptonville, Quebec
+360: Brookdale, Manitoba
+361: Brookfield, Nova Scotia
+362: Brooklin, Ontario
+363: Brooks, Alberta
+364: Brossard, Quebec
+365: Browns Flat, New Brunswick
+366: Brownsburg, Quebec
+367: Brownsville, Ontario
+368: Brownvale, Alberta
+369: Bruce Mines, Ontario
+370: Bruderheim, Alberta
+371: Bruno, Saskatchewan
+372: Brussels, Ontario
+373: Bryson, Quebec
+374: Buchanan, Saskatchewan
+375: Buchans, Newfoundland
+376: Buckhorn, Ontario
+377: Buckingham, Quebec
+378: Buffalo Narrows, Saskatchewan
+379: Burdett, Alberta
+380: Burford, Ontario
+381: Burgeo, Newfoundland
+382: Burgessville, Ontario
+383: Burin, Newfoundland
+384: Burk's Falls, Ontario
+385: Burleigh Falls, Ontario
+386: Burlington, Newfoundland
+387: Burlington, Ontario
+388: Burnaby, British Columbia
+389: Burns Lake, British Columbia
+390: Burnt Islands, Newfoundland
+391: Burstall, Saskatchewan
+392: Burwash Landing, Yukon
+393: Bury, Quebec
+394: Byemoor, Alberta
+395: Cabano, Quebec
+396: Cabri, Saskatchewan
+397: Cache Bay, Ontario
+398: Cache Creek, British Columbia
+399: Cacouna, Quebec
+400: Cadillac, Quebec
+401: Cadillac, Saskatchewan
+402: Cadomin, Alberta
+403: Calabogie, Ontario
+404: Calder, Saskatchewan
+405: Caledon, Ontario
+406: Caledon East, Ontario
+407: Caledonia, Ontario
+408: Calgary, Alberta
+409: Callander, Ontario
+410: Calling Lake, Alberta
+411: Calmar, Alberta
+412: Calstock, Ontario
+413: Calumet, Quebec
+414: Cambray, Ontario
+415: Cambridge, Ontario
+416: Cambridge Bay, Nunavut
+417: Cameron, Ontario
+418: Camlachie, Ontario
+419: Campbell River, British Columbia
+420: Campbellford, Ontario
+421: Campbellton, New Brunswick
+422: Campbellton, Newfoundland
+423: Campbellville, Ontario
+424: Campbell's Bay, Quebec
+425: Camperville, Manitoba
+426: Campobello Island, New Brunswick
+427: Camrose, Alberta
+428: Canal Flats, British Columbia
+429: Candiac, Quebec
+430: Canmore, Alberta
+431: Canning, Nova Scotia
+432: Cannington, Ontario
+433: Canoe Narrows, Saskatchewan
+434: Canora, Saskatchewan
+435: Canso, Nova Scotia
+436: Canterbury, New Brunswick
+437: Cantley, Quebec
+438: Canwood, Saskatchewan
+439: Cap-a-l'Aigle, Quebec
+440: Cap-aux-Meules, Quebec
+441: Cap-Chat, Quebec
+442: Cap-de-la-Madeleine, Quebec
+443: Cap-des-Rosiers, Quebec
+444: Cap-Pele, New Brunswick
+445: Cap-Rouge, Quebec
+446: Cap-Saint-Ignace, Quebec
+447: Cape Broyle, Newfoundland
+448: Cape Dorset, Nunavut
+449: Caplan, Quebec
+450: Capreol, Ontario
+451: Caradoc First Nation, Ontario
+452: Caramat, Ontario
+453: Caraquet, New Brunswick
+454: Carberry, Manitoba
+455: Carbon, Alberta
+456: Carbonear, Newfoundland
+457: Carcross, Yukon
+458: Cardiff, Ontario
+459: Cardigan, Prince Edward Island
+460: Cardinal, Ontario
+461: Cardston, Alberta
+462: Cargill, Ontario
+463: Caribou, Nova Scotia
+464: Carievale, Saskatchewan
+465: Carignan, Quebec
+466: Carillon, Quebec
+467: Carleton, Nova Scotia
+468: Carleton, Quebec
+469: Carleton Place, Ontario
+470: Carlyle, Saskatchewan
+471: Carmacks, Yukon
+472: Carman, Manitoba
+473: Carmangay, Alberta
+474: Carmanville, Newfoundland
+475: Carnarvon, Ontario
+476: Carnduff, Saskatchewan
+477: Caroline, Alberta
+478: Caron, Saskatchewan
+479: Carp, Ontario
+480: Carrot River, Saskatchewan
+481: Carseland, Alberta
+482: Carstairs, Alberta
+483: Cartier, Ontario
+484: Cartwright, Manitoba
+485: Cartwright, Newfoundland
+486: Casselman, Ontario
+487: Cassiar, British Columbia
+488: Castlegar, British Columbia
+489: Castlemore, Ontario
+490: Castleton, Ontario
+491: Castor, Alberta
+492: Cat Lake, Ontario
+493: Catalina, Newfoundland
+494: Causapscal, Quebec
+495: Cavan, Ontario
+496: Cayley, Alberta
+497: Cayuga, Ontario
+498: Celista, British Columbia
+499: Central Butte, Saskatchewan
+500: Centralia, Ontario
+501: Centreville, New Brunswick
+502: Centreville-Wareham-Trinity, Newfoundland
+503: Cereal, Alberta
+504: Cessford, Alberta
+505: Ceylon, Saskatchewan
+506: Chalk River, Ontario
+507: Chambly, Quebec
+508: Chambord, Quebec
+509: Champion, Alberta
+510: Champlain, Quebec
+511: Chance Cove, Newfoundland
+512: Chandler, Quebec
+513: Change islands, Newfoundland
+514: Chapais, Quebec
+515: Chapeau, Quebec
+516: Chapel Arm, Newfoundland
+517: Chapleau, Ontario
+518: Chaplin, Saskatchewan
+519: Charette, Quebec
+520: Charlemagne, Quebec
+521: Charlesbourg, Quebec
+522: Charlevoix, Quebec
+523: Charlottetown, Newfoundland
+524: Charlottetown, Prince Edward Island
+525: Charlton, Ontario
+526: Charny, Quebec
+527: Chartierville, Quebec
+528: Chase, British Columbia
+529: Chateau-Richer, Quebec
+530: Chateauguay, Quebec
+531: Chatham, New Brunswick
+532: Chatham, Ontario
+533: Chatsworth, Ontario
+534: Chauvin, Alberta
+535: Chelmsford, Ontario
+536: Chelsea, Nova Scotia
+537: Chelsea, Quebec
+538: Chemainus, British Columbia
+539: Cheneville, Quebec
+540: Chesley, Ontario
+541: Chester, Nova Scotia
+542: Chesterfield Inlet, Nunavut
+543: Chestermere, Alberta
+544: Chesterville, Ontario
+545: Chesterville, Quebec
+546: Cheticamp, Nova Scotia
+547: Chetwynd, British Columbia
+548: Cheverie, Nova Scotia
+549: Chevery, Quebec
+550: Chibougamau, Quebec
+551: Chicoutimi, Quebec
+552: Chiefs Point First Nation, Ontario
+553: Chilliwack, British Columbia
+554: Chipewyan Lake, Alberta
+555: Chipman, Alberta
+556: Chipman, New Brunswick
+557: Chippewas of Kettle/Stony Poin, Ontario
+558: Chippewas Of Sarnia First Nati, Ontario
+559: Chisasibi, Quebec
+560: Choiceland, Saskatchewan
+561: Chomedey, Quebec
+562: Christian Island, Ontario
+563: Christina Lake, British Columbia
+564: Christopher Lake, Saskatchewan
+565: Churchbridge, Saskatchewan
+566: Churchill, Manitoba
+567: Churchill Falls, Newfoundland
+568: Chute-aux-Outardes, Quebec
+569: Chute-des-Passes, Quebec
+570: Clair, New Brunswick
+571: Clairmont, Alberta
+572: Claremont, Ontario
+573: Clarence Creek, Ontario
+574: Clarence-Rockland, Ontario
+575: Clarenville, Newfoundland
+576: Clarenville-Shoal Harbour, Newfoundland
+577: Claresholm, Alberta
+578: Clarington, Ontario
+579: Clarke's Beach, Newfoundland
+580: Clarks Corners, New Brunswick
+581: Clarkson, Ontario
+582: Clarksville, Nova Scotia
+583: Clark's Harbour, Nova Scotia
+584: Clavet, Saskatchewan
+585: Clearwater, British Columbia
+586: Clearwater Bay, Ontario
+587: Clericy, Quebec
+588: Clermont, Quebec
+589: Clifford, Ontario
+590: Climax, Saskatchewan
+591: Clinton, British Columbia
+592: Clinton, Ontario
+593: Clive, Alberta
+594: Cloridorme, Quebec
+595: Cloud Bay, Ontario
+596: Clova, Quebec
+597: Clyde, Alberta
+598: Coaldale, Alberta
+599: Coalhurst, Alberta
+600: Coaticook, Quebec
+601: Cobalt, Ontario
+602: Cobble Hill, British Columbia
+603: Cobden, Ontario
+604: Coboconk, Ontario
+605: Cobourg, Ontario
+606: Cocagne, New Brunswick
+607: Cochenour, Ontario
+608: Cochin, Saskatchewan
+609: Cochrane, Alberta
+610: Cochrane, Ontario
+611: Coderre, Saskatchewan
+612: Codroy, Newfoundland
+613: Coe Hill, Ontario
+614: Colborne, Ontario
+615: Colchester, Ontario
+616: Cold Lake, Alberta
+617: Cold Springs, Ontario
+618: Coldwater, Ontario
+619: Coleville, Saskatchewan
+620: Colliers, Newfoundland
+621: Collingwood, Ontario
+622: Collingwood Corner, Nova Scotia
+623: Colombier, Quebec
+624: Colonsay, Saskatchewan
+625: Colwood, British Columbia
+626: Comber, Ontario
+627: Come By Chance, Newfoundland
+628: Comfort Cove-Newstead, Newfoundland
+629: Comox, British Columbia
+630: Compton, Quebec
+631: Conception Bay South, Newfoundland
+632: Conception Harbour, Newfoundland
+633: Conche, Newfoundland
+634: Concord, Ontario
+635: Coniston, Ontario
+636: Conklin, Alberta
+637: Connaught, Ontario
+638: Conne River, Newfoundland
+639: Conquest, Saskatchewan
+640: Consort, Alberta
+641: Constance Bay, Ontario
+642: Constance Lake First Nation, Ontario
+643: Consul, Saskatchewan
+644: Contrecoeur, Quebec
+645: Cookshire, Quebec
+646: Cookstown, Ontario
+647: Cooksville, Ontario
+648: Cook's Harbour, Newfoundland
+649: Coquitlam, British Columbia
+650: Coral Harbour, Nunavut
+651: Cormorant, Manitoba
+652: Corner Brook, Newfoundland
+653: Cornwall, Ontario
+654: Cornwall, Prince Edward Island
+655: Coronach, Saskatchewan
+656: Coronation, Alberta
+657: Corunna, Ontario
+658: Cote-St-Luc, Quebec
+659: Coteau-du-Lac, Quebec
+660: Cottam, Ontario
+661: Cottlesville, Newfoundland
+662: Courcelette, Quebec
+663: Courcelles, Quebec
+664: Courtenay, British Columbia
+665: Courtice, Ontario
+666: Courtright, Ontario
+667: Coutts, Alberta
+668: Covehead, Prince Edward Island
+669: Cow Head, Newfoundland
+670: Cowan, Manitoba
+671: Cowansville, Quebec
+672: Cowichan Bay, British Columbia
+673: Cowley, Alberta
+674: Crabtree, Quebec
+675: Craigmyle, Alberta
+676: Craik, Saskatchewan
+677: Cranberry Portage, Manitoba
+678: Cranbrook, British Columbia
+679: Crandall, Manitoba
+680: Crapaud, Prince Edward Island
+681: Crawford Bay, British Columbia
+682: Crediton, Ontario
+683: Creelman, Saskatchewan
+684: Creemore, Ontario
+685: Creighton, Saskatchewan
+686: Cremona, Alberta
+687: Crescent Beach, British Columbia
+688: Creston, British Columbia
+689: Cross Lake, Manitoba
+690: Crossfield, Alberta
+691: Crowsnest Pass, Alberta
+692: Crysler, Ontario
+693: Crystal Beach, Ontario
+694: Crystal City, Manitoba
+695: Cudworth, Saskatchewan
+696: Cumberland, British Columbia
+697: Cumberland, Ontario
+698: Cumberland House, Saskatchewan
+699: Cupar, Saskatchewan
+700: Cupids, Newfoundland
+701: Cut Knife, Saskatchewan
+702: Cypress River, Manitoba
+703: Czar, Alberta
+704: Dalhousie, New Brunswick
+705: Dalmeny, Saskatchewan
+706: Daniel's Harbour, Newfoundland
+707: Danville, Quebec
+708: Darlingford, Manitoba
+709: Dartmouth, Nova Scotia
+710: Dashwood, Ontario
+711: Dauphin, Manitoba
+712: Daveluyville, Quebec
+713: Davidson, Saskatchewan
+714: Davis Inlet, Newfoundland
+715: Dawson, Yukon
+716: Dawson Creek, British Columbia
+717: Daysland, Alberta
+718: Dease Lake, British Columbia
+719: Deauville, Quebec
+720: Debden, Saskatchewan
+721: Debec, New Brunswick
+722: Debert, Nova Scotia
+723: DeBolt, Alberta
+724: Deep River, Ontario
+725: Deer Lake, Newfoundland
+726: Deer Lake, Ontario
+727: Deerbrook, Ontario
+728: Degelis, Quebec
+729: Delaware of the Thames(Moravia, Ontario
+730: Delburne, Alberta
+731: Delhi, Ontario
+732: Delia, Alberta
+733: Delisle, Quebec
+734: Delisle, Saskatchewan
+735: Deloraine, Manitoba
+736: Delson, Quebec
+737: Delta, British Columbia
+738: Delta, Ontario
+739: Denbigh, Ontario
+740: Denzil, Saskatchewan
+741: Derwent, Alberta
+742: Desbarats, Ontario
+743: Desbiens, Quebec
+744: Deschaillons-sur-Saint-Laurent, Quebec
+745: Deseronto, Ontario
+746: Destruction Bay, Yukon
+747: Deux-Montagnes, Quebec
+748: Deux-Rivieres, Ontario
+749: Devlin, Ontario
+750: Devon, Alberta
+751: Dewberry, Alberta
+752: Didsbury, Alberta
+753: Dieppe, New Brunswick
+754: Digby, Nova Scotia
+755: Dillon, Saskatchewan
+756: Dingwall, Nova Scotia
+757: Dinsmore, Saskatchewan
+758: Disraeli, Quebec
+759: Dixonville, Alberta
+760: Doaktown, New Brunswick
+761: Dodsland, Saskatchewan
+762: Dokis, Ontario
+763: Dokis First Nation, Ontario
+764: Dolbeau-Mistassini, Quebec
+765: Dollard-des-Ormeaux, Quebec
+766: Dominion City, Manitoba
+767: Domremy, Saskatchewan
+768: Donald, British Columbia
+769: Donalda, Alberta
+770: Donnacona, Quebec
+771: Donnelly, Alberta
+772: Dorchester, New Brunswick
+773: Dorchester, Ontario
+774: Dorion, Ontario
+775: Dorset, Ontario
+776: Dorval, Quebec
+777: Douglas, Ontario
+778: Douglas Lake, British Columbia
+779: Douglastown, Ontario
+780: Dover, Newfoundland
+781: Drake, Saskatchewan
+782: Drayton, Ontario
+783: Drayton Valley, Alberta
+784: Dresden, Ontario
+785: Drumbo, Ontario
+786: Drumheller, Alberta
+787: Drummondville, Quebec
+788: Dryden, Ontario
+789: Dublin, Ontario
+790: Dubreuilville, Ontario
+791: Dubuc, Saskatchewan
+792: Dubuisson, Quebec
+793: Duchess, Alberta
+794: Duck Lake, Saskatchewan
+795: Dugald, Manitoba
+796: Duncan, British Columbia
+797: Dunchurch, Ontario
+798: Dundalk, Ontario
+799: Dundas, Ontario
+800: Dundee, Nova Scotia
+801: Dundurn, Saskatchewan
+802: Dungannon, Ontario
+803: Dunham, Quebec
+804: Dunnville, Ontario
+805: Dunsford, Ontario
+806: Dunster, British Columbia
+807: Duparquet, Quebec
+808: Dupuy, Quebec
+809: Durham, Ontario
+810: Dutton, Ontario
+811: Duvernay, Quebec
+812: Dwight, Ontario
+813: Dyer's Bay, Ontario
+814: Dysart, Saskatchewan
+815: D'Arcy, British Columbia
+816: Eagle Lake First Nation, Ontario
+817: Eagle River, Ontario
+818: Eaglesham, Alberta
+819: Ear Falls, Ontario
+820: Earl Grey, Saskatchewan
+821: Earlton, Ontario
+822: East Angus, Quebec
+823: East Bay, Nova Scotia
+824: East Broughton, Quebec
+825: East Coulee, Alberta
+826: East Farnham, Quebec
+827: East Gwillimbury, Ontario
+828: East Hereford, Quebec
+829: East Pine, British Columbia
+830: East Point, Prince Edward Island
+831: East York, Ontario
+832: Eastend, Saskatchewan
+833: Easterville, Manitoba
+834: Eastmain, Quebec
+835: Eastman, Quebec
+836: Eastport, Newfoundland
+837: Eastwood, Ontario
+838: Eatonia, Saskatchewan
+839: Echo Bay, Ontario
+840: Eckville, Alberta
+841: Ecum Secum, Nova Scotia
+842: Edam, Saskatchewan
+843: Eddystone, Manitoba
+844: Edgerton, Alberta
+845: Edmonton, Alberta
+846: Edmundston, New Brunswick
+847: Edson, Alberta
+848: Edwin, Manitoba
+849: Edzo, Northwest Territories
+850: Eganville, Ontario
+851: Elbow, Saskatchewan
+852: Eldon, Prince Edward Island
+853: Elfros, Saskatchewan
+854: Elgin, Manitoba
+855: Elgin, Ontario
+856: Elie, Manitoba
+857: Elizabethtown, Ontario
+858: Elk Lake, Ontario
+859: Elk Point, Alberta
+860: Elkford, British Columbia
+861: Elkhorn, Manitoba
+862: Elko, British Columbia
+863: Elkwater, Alberta
+864: Elliot Lake, Ontario
+865: Elliston, Newfoundland
+866: Elm Creek, Manitoba
+867: Elmira, Ontario
+868: Elmsdale, Nova Scotia
+869: Elmvale, Ontario
+870: Elnora, Alberta
+871: Elora, Ontario
+872: Elrose, Saskatchewan
+873: Embree, Newfoundland
+874: Embro, Ontario
+875: Embrun, Ontario
+876: Emerson, Manitoba
+877: Emeryville, Ontario
+878: Emo, Ontario
+879: Empress, Alberta
+880: Emsdale, Ontario
+881: Enchant, Alberta
+882: Enderby, British Columbia
+883: Englee, Newfoundland
+884: Englehart, Ontario
+885: English Harbour East, Newfoundland
+886: Enterprise, Northwest Territories
+887: Enterprise, Ontario
+888: Entrelacs, Quebec
+889: Erickson, Manitoba
+890: Eriksdale, Manitoba
+891: Erin, Ontario
+892: Eskasoni, Nova Scotia
+893: Espanola, Ontario
+894: Essex, Ontario
+895: Estaire, Ontario
+896: Esterel, Quebec
+897: Esterhazy, Saskatchewan
+898: Estevan, Saskatchewan
+899: Estevan Point, British Columbia
+900: Eston, Saskatchewan
+901: Ethelbert, Manitoba
+902: Etobicoke, Ontario
+903: Etzikom, Alberta
+904: Eugenia, Ontario
+905: Evain, Quebec
+906: Evansburg, Alberta
+907: Exeter, Ontario
+908: Exshaw, Alberta
+909: Eyebrow, Saskatchewan
+910: Fabre, Quebec
+911: Fabreville, Quebec
+912: Fair Haven, Newfoundland
+913: Fairmont Hot Springs, British Columbia
+914: Fairview, Alberta
+915: Falardeau, Quebec
+916: Falcon Lake, Manitoba
+917: Falher, Alberta
+918: Falkland, British Columbia
+919: Farnham, Quebec
+920: Faro, Yukon
+921: Fassett, Quebec
+922: Fauquier, British Columbia
+923: Fauquier, Ontario
+924: Faust, Alberta
+925: Fenelon Falls, Ontario
+926: Fenwick, Ontario
+927: Fergus, Ontario
+928: Ferintosh, Alberta
+929: Ferland, Quebec
+930: Ferme-Neuve, Quebec
+931: Fermeuse, Newfoundland
+932: Fermont, Quebec
+933: Fernie, British Columbia
+934: Feversham, Ontario
+935: Field, British Columbia
+936: Field, Ontario
+937: Fillmore, Saskatchewan
+938: Finch, Ontario
+939: Fingal, Ontario
+940: Fisher Branch, Manitoba
+941: Fisher River, Manitoba
+942: Fisherville, Ontario
+943: Flamborough, Ontario
+944: Flanders, Ontario
+945: Flatbush, Alberta
+946: Flatrock, British Columbia
+947: Flatrock, Newfoundland
+948: Fleming, Saskatchewan
+949: Flesherton, Ontario
+950: Fleur de Lys, Newfoundland
+951: Fleurimont, Quebec
+952: Flin Flon, Manitoba
+953: Florenceville, New Brunswick
+954: Flower's Cove, Newfoundland
+955: Foam Lake, Saskatchewan
+956: Fogo, Newfoundland
+957: Foley, Ontario
+958: Foleyet, Ontario
+959: Fond-du-Lac, Saskatchewan
+960: Fords Mills, New Brunswick
+961: Foremost, Alberta
+962: Forest, Ontario
+963: Forest Grove, British Columbia
+964: Forestburg, Alberta
+965: Forestville, Quebec
+966: Fork River, Manitoba
+967: Fort Albany, Ontario
+968: Fort Assiniboine, Alberta
+969: Fort Chipewyan, Alberta
+970: Fort Erie, Ontario
+971: Fort Frances, Ontario
+972: Fort Fraser, British Columbia
+973: Fort Good Hope, Northwest Territories
+974: Fort Hope, Ontario
+975: Fort Liard, Northwest Territories
+976: Fort MacKay, Alberta
+977: Fort Macleod, Alberta
+978: Fort McMurray, Alberta
+979: Fort McPherson, Northwest Territories
+980: Fort Nelson, British Columbia
+981: Fort Providence, Northwest Territories
+982: Fort Qu'Appelle, Saskatchewan
+983: Fort Saskatchewan, Alberta
+984: Fort Severn, Ontario
+985: Fort Severn First Nation, Ontario
+986: Fort Simpson, Northwest Territories
+987: Fort Smith, Northwest Territories
+988: Fort St. James, British Columbia
+989: Fort St. John, British Columbia
+990: Fort Vermilion, Alberta
+991: Fort William First Nation, Ontario
+992: Fort-Coulonge, Quebec
+993: Forteau, Newfoundland
+994: Fortierville, Quebec
+995: Fortune, Newfoundland
+996: Fossambault-sur-le-Lac, Quebec
+997: Fox Cove-Mortier, Newfoundland
+998: Fox Creek, Alberta
+999: Fox Lake, Alberta
+1000: Fox Valley, Saskatchewan
+1001: Foxboro, Ontario
+1002: Foxwarren, Manitoba
+1003: Foymount, Ontario
+1004: Frampton, Quebec
+1005: Francis, Saskatchewan
+1006: Frankford, Ontario
+1007: Franklin Centre, Quebec
+1008: Fraser Lake, British Columbia
+1009: Fredericton, New Brunswick
+1010: Fredericton Junction, New Brunswick
+1011: Freelton, Ontario
+1012: Freeport, Nova Scotia
+1013: Frelighsburg, Quebec
+1014: French River First Nation, Ontario
+1015: French Village, Nova Scotia
+1016: Frenchmans Island, Newfoundland
+1017: Freshwater, Newfoundland
+1018: Frobisher, Saskatchewan
+1019: Frontier, Saskatchewan
+1020: Fruitvale, British Columbia
+1021: Fugereville, Quebec
+1022: Gabarus, Nova Scotia
+1023: Gabriola, British Columbia
+1024: Gadsby, Alberta
+1025: Gagetown, New Brunswick
+1026: Gainsborough, Saskatchewan
+1027: Galahad, Alberta
+1028: Galiano Island, British Columbia
+1029: Galt, Ontario
+1030: Gambo, Newfoundland
+1031: Gananoque, Ontario
+1032: Gander, Newfoundland
+1033: Ganges, British Columbia
+1034: Garden Hill, Ontario
+1035: Garden River First Nation, Ontario
+1036: Garnish, Newfoundland
+1037: Garson, Ontario
+1038: Gaspe, Quebec
+1039: Gatineau, Quebec
+1040: Gaultois, Newfoundland
+1041: Gentilly, Quebec
+1042: Georgetown, Ontario
+1043: Georgetown, Prince Edward Island
+1044: Georgina, Ontario
+1045: Geraldton, Ontario
+1046: Gibbons, Alberta
+1047: Gibsons, British Columbia
+1048: Gift Lake, Alberta
+1049: Gilbert Plains, Manitoba
+1050: Gillam, Manitoba
+1051: Gilmour, Ontario
+1052: Gimli, Manitoba
+1053: Girardville, Quebec
+1054: Girouxville, Alberta
+1055: Giscome, British Columbia
+1056: Gjoa Haven, Nunavut
+1057: Glace Bay, Nova Scotia
+1058: Gladstone, Manitoba
+1059: Glaslyn, Saskatchewan
+1060: Glassville, New Brunswick
+1061: Gleichen, Alberta
+1062: Glen Ewen, Saskatchewan
+1063: Glen Robertson, Ontario
+1064: Glen Water, Ontario
+1065: Glen Williams, Ontario
+1066: Glenavon, Saskatchewan
+1067: Glenboro, Manitoba
+1068: Glencoe, Ontario
+1069: Glendon, Alberta
+1070: Glenella, Manitoba
+1071: Glenwood, Alberta
+1072: Glenwood, Newfoundland
+1073: Gloucester, Ontario
+1074: Glovertown, Newfoundland
+1075: Godbout, Quebec
+1076: Goderich, Ontario
+1077: Gods Lake Narrows, Manitoba
+1078: Gogama, Ontario
+1079: Gold Bridge, British Columbia
+1080: Gold River, British Columbia
+1081: Goldboro, Nova Scotia
+1082: Golden, British Columbia
+1083: Golden Lake, Ontario
+1084: Good Hope Lake, British Columbia
+1085: Gooderham, Ontario
+1086: Goodeve, Saskatchewan
+1087: Goodsoil, Saskatchewan
+1088: Goose Bay, Newfoundland
+1089: Gore Bay, Ontario
+1090: Gormley, Ontario
+1091: Gorrie, Ontario
+1092: Goshen, Nova Scotia
+1093: Goulais River, Ontario
+1094: Govan, Saskatchewan
+1095: Gowganda, Ontario
+1096: Gracefield, Quebec
+1097: Grafton, Ontario
+1098: Granby, Quebec
+1099: Grand Bank, Newfoundland
+1100: Grand Bay, New Brunswick
+1101: Grand Beach, Manitoba
+1102: Grand Bend, Ontario
+1103: Grand Centre, Alberta
+1104: Grand Etang, Nova Scotia
+1105: Grand Falls, New Brunswick
+1106: Grand Falls, Newfoundland
+1107: Grand Falls-Windsor, Newfoundland
+1108: Grand Forks, British Columbia
+1109: Grand Lake, Nova Scotia
+1110: Grand Manan, New Brunswick
+1111: Grand Narrows, Nova Scotia
+1112: Grand Rapids, Manitoba
+1113: Grand Valley, Ontario
+1114: Grand-Mere, Quebec
+1115: Grand-Remous, Quebec
+1116: Grand-Sault, New Brunswick
+1117: Grande Cache, Alberta
+1118: Grande Prairie, Alberta
+1119: Grande-Anse, New Brunswick
+1120: Grande-Entree, Quebec
+1121: Grande-Riviere, Quebec
+1122: Grande-Vallee, Quebec
+1123: Grandes-Bergeronnes, Quebec
+1124: Grandes-Piles, Quebec
+1125: Grandview, Manitoba
+1126: Granisle, British Columbia
+1127: Granton, Ontario
+1128: Granum, Alberta
+1129: Grasmere, British Columbia
+1130: Grassland, Alberta
+1131: Grassy Lake, Alberta
+1132: Grassy Narrows, Ontario
+1133: Grassy Narrows First Nation, Ontario
+1134: Grassy Plains, British Columbia
+1135: Gravelbourg, Saskatchewan
+1136: Gravenhurst, Ontario
+1137: Grayson, Saskatchewan
+1138: Great Harbour Deep, Newfoundland
+1139: Great Village, Nova Scotia
+1140: Green Island Cove, Newfoundland
+1141: Green Lake, Saskatchewan
+1142: Greenfield Park, Quebec
+1143: Greenspond, Newfoundland
+1144: Greensville, Ontario
+1145: Greenville, British Columbia
+1146: Greenwood, British Columbia
+1147: Greenwood, Nova Scotia
+1148: Grenfell, Saskatchewan
+1149: Grenville, Quebec
+1150: Gretna, Manitoba
+1151: Grimsby, Ontario
+1152: Grimshaw, Alberta
+1153: Grouard, Alberta
+1154: Guelph, Ontario
+1155: Guigues, Quebec
+1156: Gull Bay, Ontario
+1157: Gull Bay First Nation, Ontario
+1158: Gull Lake, Saskatchewan
+1159: Guysborough, Nova Scotia
+1160: Gypsumville, Manitoba
+1161: Hadashville, Manitoba
+1162: Hafford, Saskatchewan
+1163: Hagersville, Ontario
+1164: Hague, Saskatchewan
+1165: Haileybury, Ontario
+1166: Haines Junction, Yukon
+1167: Hairy Hill, Alberta
+1168: Haldimand, Ontario
+1169: Haliburton, Ontario
+1170: Halifax, Nova Scotia
+1171: Halkirk, Alberta
+1172: Halton Hills, Ontario
+1173: Ham-Nord, Quebec
+1174: Hamilton, Ontario
+1175: Hamiota, Manitoba
+1176: Hammond, Quebec
+1177: Hampden, Newfoundland
+1178: Hampstead, New Brunswick
+1179: Hampstead, Quebec
+1180: Hampton, New Brunswick
+1181: Hampton, Ontario
+1182: Hanley, Saskatchewan
+1183: Hanmer, Ontario
+1184: Hanna, Alberta
+1185: Hanover, Ontario
+1186: Hantsport, Nova Scotia
+1187: Hant's Harbour, Newfoundland
+1188: Happy Valley-Goose Bay, Newfoundland
+1189: Harbour Breton, Newfoundland
+1190: Harbour Grace, Newfoundland
+1191: Harbour Main-Chapel Cove-Lakev, Newfoundland
+1192: Hardisty, Alberta
+1193: Hare Bay, Newfoundland
+1194: Harewood, New Brunswick
+1195: Harrietsville, Ontario
+1196: Harrington Harbour, Quebec
+1197: Harris, Saskatchewan
+1198: Harriston, Ontario
+1199: Harrow, Ontario
+1200: Harrowsmith, Ontario
+1201: Hartland, New Brunswick
+1202: Hartley Bay, British Columbia
+1203: Hartney, Manitoba
+1204: Hastings, Ontario
+1205: Havelock, New Brunswick
+1206: Havelock, Ontario
+1207: Havre-Aubert, Quebec
+1208: Havre-aux-Maisons, Quebec
+1209: Havre-St-Pierre, Quebec
+1210: Hawarden, Saskatchewan
+1211: Hawk Junction, Ontario
+1212: Hawkesbury, Ontario
+1213: Hawke's Bay, Newfoundland
+1214: Hay Lakes, Alberta
+1215: Hay River, Northwest Territories
+1216: Hays, Alberta
+1217: Hazelton, British Columbia
+1218: Hazlet, Saskatchewan
+1219: Hearst, Ontario
+1220: Heart's Content, Newfoundland
+1221: Heart's Delight-Islington, Newfoundland
+1222: Heart's Desire, Newfoundland
+1223: Heatherton, Nova Scotia
+1224: Hebertville, Quebec
+1225: Hebertville-Station, Quebec
+1226: Hecla, Manitoba
+1227: Hedley, British Columbia
+1228: Heinsburg, Alberta
+1229: Heisler, Alberta
+1230: Hemlo, Ontario
+1231: Hemlock Valley, British Columbia
+1232: Hemmingford, Quebec
+1233: Hendrix Lake, British Columbia
+1234: Henryville, Quebec
+1235: Hensall, Ontario
+1236: Henvey Inlet First Nation, Ontario
+1237: Hepburn, Saskatchewan
+1238: Hepworth, Ontario
+1239: Herbert, Saskatchewan
+1240: Herschel, Saskatchewan
+1241: Hespeler, Ontario
+1242: Hickman's Harbour, Newfoundland
+1243: Hickson, Ontario
+1244: High Level, Alberta
+1245: High Prairie, Alberta
+1246: High River, Alberta
+1247: Highgate, Ontario
+1248: Hilda, Alberta
+1249: Hillgrade, Newfoundland
+1250: Hillsborough, New Brunswick
+1251: Hillsburgh, Ontario
+1252: Hillview, Newfoundland
+1253: Hines Creek, Alberta
+1254: Hinton, Alberta
+1255: Hixon, British Columbia
+1256: Hobbema, Alberta
+1257: Hodgeville, Saskatchewan
+1258: Holberg, British Columbia
+1259: Holden, Alberta
+1260: Holdfast, Saskatchewan
+1261: Holland, Manitoba
+1262: Holland Landing, Ontario
+1263: Holstein, Ontario
+1264: Holyrood, Newfoundland
+1265: Honey Harbour, Ontario
+1266: Hope, British Columbia
+1267: Hopedale, Newfoundland
+1268: Hopewell, Nova Scotia
+1269: Hornepayne, Ontario
+1270: Horsefly, British Columbia
+1271: Houston, British Columbia
+1272: Howick, Quebec
+1273: Howley, Newfoundland
+1274: Hoyt, New Brunswick
+1275: Hubbards, Nova Scotia
+1276: Hudson, Ontario
+1277: Hudson, Quebec
+1278: Hudson Bay, Saskatchewan
+1279: Hudson's Hope, British Columbia
+1280: Hughenden, Alberta
+1281: Hull, Quebec
+1282: Humber Arm South, Newfoundland
+1283: Humboldt, Saskatchewan
+1284: Humphrey, Ontario
+1285: Hunter River, Prince Edward Island
+1286: Huntingdon, Quebec
+1287: Huntsville, Ontario
+1288: Hussar, Alberta
+1289: Hythe, Alberta
+1290: Iberville, Quebec
+1291: Ignace, Ontario
+1292: Ilderton, Ontario
+1293: Ile-a-la-Crosse, Saskatchewan
+1294: Ile-aux-Coudres, Quebec
+1295: Iles-de-la-Madeleine, Quebec
+1296: Ilford, Manitoba
+1297: Imperial, Saskatchewan
+1298: Indian Head, Saskatchewan
+1299: Indian Tickle, Newfoundland
+1300: Ingersoll, Ontario
+1301: Ingleside, Ontario
+1302: Ingonish, Nova Scotia
+1303: Innerkip, Ontario
+1304: Innisfail, Alberta
+1305: Innisfil, Ontario
+1306: Innisfree, Alberta
+1307: Inukjuak, Quebec
+1308: Inuvik, Northwest Territories
+1309: Inverary, Ontario
+1310: Invermay, Saskatchewan
+1311: Invermere, British Columbia
+1312: Inverness, Nova Scotia
+1313: Inverness, Quebec
+1314: Inwood, Manitoba
+1315: Inwood, Ontario
+1316: Iqaluit, Nunavut
+1317: Irma, Alberta
+1318: Iron Bridge, Ontario
+1319: Iron Springs, Alberta
+1320: Iroquois, Ontario
+1321: Iroquois Falls, Ontario
+1322: Irricana, Alberta
+1323: Irvine, Alberta
+1324: Iskut, British Columbia
+1325: Island Harbour, Newfoundland
+1326: Island Lake, Manitoba
+1327: Islay, Alberta
+1328: Isle aux Morts, Newfoundland
+1329: Ituna, Saskatchewan
+1330: Jackson's Arm, Newfoundland
+1331: Jacquet River, New Brunswick
+1332: Jaffray, British Columbia
+1333: Jaffray Melick, Ontario
+1334: Jamestown, Newfoundland
+1335: Jansen, Saskatchewan
+1336: Jarvie, Alberta
+1337: Jarvis, Ontario
+1338: Jasper, Alberta
+1339: Jasper, Ontario
+1340: Jean Marie River, Northwest Territories
+1341: Jellicoe, Ontario
+1342: Jenner, Alberta
+1343: Jockvale, Ontario
+1344: Joe Batt's Arm-Barr'd Islands-, Newfoundland
+1345: Johnstown, Ontario
+1346: Joliette, Quebec
+1347: Jonquiere, Quebec
+1348: Jordan, Ontario
+1349: Joussard, Alberta
+1350: Joutel, Quebec
+1351: Kakisa, Northwest Territories
+1352: Kaministiquia, Ontario
+1353: Kamiskotia, Ontario
+1354: Kamloops, British Columbia
+1355: Kamsack, Saskatchewan
+1356: Kananaskis, Alberta
+1357: Kanata, Ontario
+1358: Kangiqsualujjuaq, Quebec
+1359: Kangirsuk, Quebec
+1360: Kapuskasing, Ontario
+1361: Kasabonika First Nation, Ontario
+1362: Kashechewan First Nation, Ontario
+1363: Kaslo, British Columbia
+1364: Kateville, Quebec
+1365: Kazabazua, Quebec
+1366: Kearney, Ontario
+1367: Kedgwick, New Brunswick
+1368: Keene, Ontario
+1369: Keephills, Alberta
+1370: Keewatin, Ontario
+1371: Keg River, Alberta
+1372: Kelliher, Saskatchewan
+1373: Kelowna, British Columbia
+1374: Kelvington, Saskatchewan
+1375: Kelwood, Manitoba
+1376: Kemano, British Columbia
+1377: Kemptville, Ontario
+1378: Kenaston, Saskatchewan
+1379: Kennedy, Saskatchewan
+1380: Kennetcook, Nova Scotia
+1381: Kenora, Ontario
+1382: Kenosee, Saskatchewan
+1383: Kensington, Prince Edward Island
+1384: Kent Centre, Ontario
+1385: Kenton, Manitoba
+1386: Kentville, Nova Scotia
+1387: Kenzieville, Nova Scotia
+1388: Keremeos, British Columbia
+1389: Kerrobert, Saskatchewan
+1390: Kerwood, Ontario
+1391: Keswick, New Brunswick
+1392: Keswick, Ontario
+1393: Ketch Harbour, Nova Scotia
+1394: Key Lake, Saskatchewan
+1395: Killaloe, Ontario
+1396: Killam, Alberta
+1397: Killarney, Manitoba
+1398: Killarney, Ontario
+1399: Kimberley, British Columbia
+1400: Kincaid, Saskatchewan
+1401: Kincardine, Ontario
+1402: Kincolith, British Columbia
+1403: Kindersley, Saskatchewan
+1404: King City, Ontario
+1405: Kingfisher Lake, Ontario
+1406: Kingfisher Lake First Nation, Ontario
+1407: Kingsbury, Quebec
+1408: Kingsey Falls, Quebec
+1409: Kingston, Nova Scotia
+1410: Kingston, Ontario
+1411: Kingsville, Ontario
+1412: King's Cove, Newfoundland
+1413: King's Point, Newfoundland
+1414: Kinistino, Saskatchewan
+1415: Kinmount, Ontario
+1416: Kintore, Ontario
+1417: Kinuso, Alberta
+1418: Kipling, Saskatchewan
+1419: Kippens, Newfoundland
+1420: Kirkfield, Ontario
+1421: Kirkland, Quebec
+1422: Kirkland Lake, Ontario
+1423: Kirkton, Ontario
+1424: Kisbey, Saskatchewan
+1425: Kitchener, Ontario
+1426: Kitimat, British Columbia
+1427: Kitkatla, British Columbia
+1428: Kitsault, British Columbia
+1429: Kitscoty, Alberta
+1430: Kitwanga, British Columbia
+1431: Kleinburg, Ontario
+1432: Klemtu, British Columbia
+1433: Knowlton, Quebec
+1434: Kugluktuk, Northwest Territories
+1435: Kuujjuaq, Quebec
+1436: Kyle, Saskatchewan
+1437: Kyuquot, British Columbia
+1438: La Baie, Quebec
+1439: La Broquerie, Manitoba
+1440: La Corne, Quebec
+1441: La Crete, Alberta
+1442: La Dore, Quebec
+1443: La Grande, Quebec
+1444: La Guadeloupe, Quebec
+1445: La Loche, Saskatchewan
+1446: La Malbaie, Quebec
+1447: La Martre, Quebec
+1448: La Minerve, Quebec
+1449: La Patrie, Quebec
+1450: La Plaine, Quebec
+1451: La Pocatiere, Quebec
+1452: La Prairie, Quebec
+1453: La Reine, Quebec
+1454: La Romaine, Quebec
+1455: La Ronge, Saskatchewan
+1456: La Sarre, Quebec
+1457: La Scie, Newfoundland
+1458: La Tuque, Quebec
+1459: Labelle, Quebec
+1460: Labrador City, Newfoundland
+1461: Lac Brochet, Manitoba
+1462: Lac du Bonnet, Manitoba
+1463: Lac Kenogami, Quebec
+1464: Lac La Biche, Alberta
+1465: Lac la Croix, Ontario
+1466: Lac la Hache, British Columbia
+1467: Lac Seul First Nation, Ontario
+1468: Lac-au-Saumon, Quebec
+1469: Lac-aux-Sables, Quebec
+1470: Lac-Bouchette, Quebec
+1471: Lac-Brome, Quebec
+1472: Lac-Delage, Quebec
+1473: Lac-des-Ecorces, Quebec
+1474: Lac-Drolet, Quebec
+1475: Lac-du-Cerf, Quebec
+1476: Lac-Edouard, Quebec
+1477: Lac-Etchemin, Quebec
+1478: Lac-Frontiere, Quebec
+1479: Lac-Poulin, Quebec
+1480: Lac-Saguay, Quebec
+1481: Lac-Sergent, Quebec
+1482: Lac-St-Joseph, Quebec
+1483: Lachenaie, Quebec
+1484: Lachine, Quebec
+1485: Lachute, Quebec
+1486: Lacolle, Quebec
+1487: Lacombe, Alberta
+1488: Ladle Cove, Newfoundland
+1489: Ladysmith, British Columbia
+1490: Lafleche, Saskatchewan
+1491: Lafontaine, Ontario
+1492: Lafontaine, Quebec
+1493: Lagoon City, Ontario
+1494: LaHave, Nova Scotia
+1495: Laird, Saskatchewan
+1496: Lake Alma, Saskatchewan
+1497: Lake Charlotte, Nova Scotia
+1498: Lake Cowichan, British Columbia
+1499: Lake Lenore, Saskatchewan
+1500: Lake Louise, Alberta
+1501: Lake Megantic, Quebec
+1502: Lakefield, Ontario
+1503: Lamaline, Newfoundland
+1504: Lambeth, Ontario
+1505: Lambton, Quebec
+1506: Lameque, New Brunswick
+1507: Lamont, Alberta
+1508: Lampman, Saskatchewan
+1509: Lanark, Ontario
+1510: Lancaster, Ontario
+1511: Landis, Saskatchewan
+1512: Lang, Saskatchewan
+1513: Langara, British Columbia
+1514: Langdon, Alberta
+1515: Langenburg, Saskatchewan
+1516: Langham, Saskatchewan
+1517: Langley, British Columbia
+1518: Langruth, Manitoba
+1519: Langton, Ontario
+1520: Lanigan, Saskatchewan
+1521: Lanoraie, Quebec
+1522: Lansdowne, Ontario
+1523: Lansdowne House, Ontario
+1524: Lantzville, British Columbia
+1525: Larder Lake, Ontario
+1526: Lark Harbour, Newfoundland
+1527: Larrys River, Nova Scotia
+1528: LaSalle, Ontario
+1529: LaSalle, Quebec
+1530: Lashburn, Saskatchewan
+1531: Latchford, Ontario
+1532: Laterriere, Quebec
+1533: Latulipe, Quebec
+1534: Laurentides, Quebec
+1535: Laurier-Station, Quebec
+1536: Laurierville, Quebec
+1537: Laval, Quebec
+1538: Laval des Rapides, Quebec
+1539: Laval Ouest, Quebec
+1540: Lavaltrie, Quebec
+1541: Laverlochere, Quebec
+1542: Lavoy, Alberta
+1543: Lawn, Newfoundland
+1544: Lawrencetown, Nova Scotia
+1545: Lawrenceville, Quebec
+1546: Le Bic, Quebec
+1547: Le Gardeur, Quebec
+1548: Leader, Saskatchewan
+1549: Leaf Rapids, Manitoba
+1550: Leamington, Ontario
+1551: Leask, Saskatchewan
+1552: Lebel-sur-Quevillon, Quebec
+1553: Leclercville, Quebec
+1554: Leduc, Alberta
+1555: Lefroy, Ontario
+1556: Legal, Alberta
+1557: Lemberg, Saskatchewan
+1558: LeMoyne, Quebec
+1559: Lennoxville, Quebec
+1560: Leoville, Saskatchewan
+1561: Leroy, Saskatchewan
+1562: Lery, Quebec
+1563: Les Boules, Quebec
+1564: Les Cedres, Quebec
+1565: Les Coteaux, Quebec
+1566: Les Eboulements, Quebec
+1567: Les Escoumins, Quebec
+1568: Les Mechins, Quebec
+1569: Leslieville, Alberta
+1570: Lestock, Saskatchewan
+1571: Lethbridge, Alberta
+1572: Levack, Ontario
+1573: Levis, Quebec
+1574: Lewisporte, Newfoundland
+1575: Libau, Manitoba
+1576: Liberty, Saskatchewan
+1577: Likely, British Columbia
+1578: Lillooet, British Columbia
+1579: Limerick, Saskatchewan
+1580: Lincoln, Ontario
+1581: Lindsay, Ontario
+1582: Lintlaw, Saskatchewan
+1583: Linwood, Ontario
+1584: Lion's Head, Ontario
+1585: Lipton, Saskatchewan
+1586: Listowel, Ontario
+1587: Little Bay, Newfoundland
+1588: Little Bay Islands, Newfoundland
+1589: Little Britain, Ontario
+1590: Little Burnt Bay, Newfoundland
+1591: Little Catalina, Newfoundland
+1592: Little Current, Ontario
+1593: Little Fort, British Columbia
+1594: Little Grand Rapids, Manitoba
+1595: Little Heart's Ease, Newfoundland
+1596: Lively, Ontario
+1597: Liverpool, Nova Scotia
+1598: Lloydminster, Alberta
+1599: Lloydminster, Saskatchewan
+1600: Lockeport, Nova Scotia
+1601: Lockport, Manitoba
+1602: Lodgepole, Alberta
+1603: Logan Lake, British Columbia
+1604: Logy Bay-Middle Cove-Outer Cov, Newfoundland
+1605: Lombardy, Ontario
+1606: Lomond, Alberta
+1607: London, Ontario
+1608: Long Harbour-Mount Arlington H, Newfoundland
+1609: Long Lac, Ontario
+1610: Long Lake First Nation, Ontario
+1611: Long Point, Ontario
+1612: Long Pond, Newfoundland
+1613: Long Sault, Ontario
+1614: Longlac, Ontario
+1615: Longueuil, Quebec
+1616: Longview, Alberta
+1617: Loon Lake, Saskatchewan
+1618: Loos, British Columbia
+1619: Loreburn, Saskatchewan
+1620: Loretteville, Quebec
+1621: Lorne, Ontario
+1622: Lorraine, Quebec
+1623: Lorrainville, Quebec
+1624: Lougheed, Alberta
+1625: Louisbourg, Nova Scotia
+1626: Louisdale, Nova Scotia
+1627: Louiseville, Quebec
+1628: Lourdes, Newfoundland
+1629: Lourdes de Blanc Sablon, Quebec
+1630: Louvicourt, Quebec
+1631: Low, Quebec
+1632: Lower Island Cove, Newfoundland
+1633: Lower Post, British Columbia
+1634: Lucan, Ontario
+1635: Luceville, Quebec
+1636: Lucknow, Ontario
+1637: Lucky Lake, Saskatchewan
+1638: Lumby, British Columbia
+1639: Lumsden, Newfoundland
+1640: Lumsden, Saskatchewan
+1641: Lundar, Manitoba
+1642: Lunenburg, Nova Scotia
+1643: Luseland, Saskatchewan
+1644: Luskville, Quebec
+1645: Lyn, Ontario
+1646: Lynden, Ontario
+1647: Lynn Lake, Manitoba
+1648: Lyster, Quebec
+1649: Lytton, British Columbia
+1650: L'Acadie, Quebec
+1651: L'Ancienne-Lorette, Quebec
+1652: L'Ange-Gardien, Quebec
+1653: L'Annonciation, Quebec
+1654: L'Anse-au-Loup, Newfoundland
+1655: L'Ardoise, Nova Scotia
+1656: L'Assomption, Quebec
+1657: L'Avenir, Quebec
+1658: L'Epiphanie, Quebec
+1659: L'Ile-Aux-Noix, Quebec
+1660: L'Ile-Bizard, Quebec
+1661: L'Ile-Cadieux, Quebec
+1662: L'Ile-Dorval, Quebec
+1663: L'Ile-d'Entree, Quebec
+1664: L'Ile-Perrot, Quebec
+1665: L'Île-Verte, Quebec
+1666: L'Islet, Quebec
+1667: L'Orignal, Ontario
+1668: Ma-Me-O Beach, Alberta
+1669: Maberly, Ontario
+1670: Mabou, Nova Scotia
+1671: Macamic, Quebec
+1672: Maccan, Nova Scotia
+1673: Macdiarmid, Ontario
+1674: Maces Bay, New Brunswick
+1675: MacGregor, Manitoba
+1676: Mackenzie, British Columbia
+1677: Macklin, Saskatchewan
+1678: Macrorie, Saskatchewan
+1679: MacTier, Ontario
+1680: Madoc, Ontario
+1681: Madsen, Ontario
+1682: Mafeking, Manitoba
+1683: Magnetawan, Ontario
+1684: Magnetawan First Nation, Ontario
+1685: Magog, Quebec
+1686: Magrath, Alberta
+1687: Mahone Bay, Nova Scotia
+1688: Maidstone, Ontario
+1689: Maidstone, Saskatchewan
+1690: Main Brook, Newfoundland
+1691: Maitland, Nova Scotia
+1692: Maitland, Ontario
+1693: Makkovik, Newfoundland
+1694: Malartic, Quebec
+1695: Mallorytown, Ontario
+1696: Malton, Ontario
+1697: Manic-Cinq, Quebec
+1698: Manigotagan, Manitoba
+1699: Manitou, Manitoba
+1700: Manitouwadge, Ontario
+1701: Manitowaning, Ontario
+1702: Maniwaki, Quebec
+1703: Mankota, Saskatchewan
+1704: Manning, Alberta
+1705: Mannville, Alberta
+1706: Manor, Saskatchewan
+1707: Manotick, Ontario
+1708: Manouane, Quebec
+1709: Manseau, Quebec
+1710: Mansonville, Quebec
+1711: Manyberries, Alberta
+1712: Maple, Ontario
+1713: Maple Creek, Saskatchewan
+1714: Maple Grove, Quebec
+1715: Maple Ridge, British Columbia
+1716: Marathon, Ontario
+1717: Marcelin, Saskatchewan
+1718: Margaree Forks, Nova Scotia
+1719: Margo, Saskatchewan
+1720: Maria, Quebec
+1721: Marieville, Quebec
+1722: Marion Bridge, Nova Scotia
+1723: Markdale, Ontario
+1724: Markham, Ontario
+1725: Markstay, Ontario
+1726: Marlboro, Alberta
+1727: Marmora, Ontario
+1728: Marquis, Saskatchewan
+1729: Marsden, Saskatchewan
+1730: Marsh Lake, Yukon
+1731: Marshall, Saskatchewan
+1732: Marsoui, Quebec
+1733: Marten Falls First Nation, Ontario
+1734: Marten River, Ontario
+1735: Martensville, Saskatchewan
+1736: Martintown, Ontario
+1737: Marwayne, Alberta
+1738: Maryfield, Saskatchewan
+1739: Marystown, Newfoundland
+1740: Mary's Harbour, Newfoundland
+1741: Mascouche, Quebec
+1742: Maskinonge, Quebec
+1743: Masset, British Columbia
+1744: Massey, Ontario
+1745: Massey Drive, Newfoundland
+1746: Masson-Angers, Quebec
+1747: Massueville, Quebec
+1748: Mastigouche, Quebec
+1749: Matachewan, Ontario
+1750: Matagami, Quebec
+1751: Matane, Quebec
+1752: Matapedia, Quebec
+1753: Matheson, Ontario
+1754: Mattawa, Ontario
+1755: Mattice, Ontario
+1756: Maxville, Ontario
+1757: Mayerthorpe, Alberta
+1758: Maymont, Saskatchewan
+1759: Maynooth, Ontario
+1760: Mayo, Yukon
+1761: McAdam, New Brunswick
+1762: McAuley, Manitoba
+1763: McBride, British Columbia
+1764: McCreary, Manitoba
+1765: McDonalds Corners, Ontario
+1766: McGregor, Ontario
+1767: McIver's, Newfoundland
+1768: McKellar, Ontario
+1769: McLeese Lake, British Columbia
+1770: McLennan, Alberta
+1771: McLeod Lake, British Columbia
+1772: Mcmasterville, Quebec
+1773: Meacham, Saskatchewan
+1774: Meadow Lake, Saskatchewan
+1775: Meaford, Ontario
+1776: Meander River, Alberta
+1777: Meath Park, Saskatchewan
+1778: Medicine Hat, Alberta
+1779: Meductic, New Brunswick
+1780: Melbourne, Ontario
+1781: Melbourne, Quebec
+1782: Melfort, Saskatchewan
+1783: Melita, Manitoba
+1784: Mellin, Quebec
+1785: Melocheville, Quebec
+1786: Melrose, Nova Scotia
+1787: Melville, Saskatchewan
+1788: Memramcook, New Brunswick
+1789: Meota, Saskatchewan
+1790: Mercier, Quebec
+1791: Merigomish, Nova Scotia
+1792: Merlin, Ontario
+1793: Merrickville, Ontario
+1794: Merritt, British Columbia
+1795: Metabetchouan, Quebec
+1796: Metcalfe, Ontario
+1797: Meteghan, Nova Scotia
+1798: Metis-sur-Mer, Quebec
+1799: Miami, Manitoba
+1800: Mica Creek, British Columbia
+1801: Midale, Saskatchewan
+1802: Middle Lake, Saskatchewan
+1803: Middleton, Nova Scotia
+1804: Midland, Ontario
+1805: Midway, British Columbia
+1806: Milden, Saskatchewan
+1807: Mildmay, Ontario
+1808: Milestone, Saskatchewan
+1809: Milford Bay, Ontario
+1810: Milk River, Alberta
+1811: Millbrook, Ontario
+1812: Millertown, Newfoundland
+1813: Millet, Alberta
+1814: Millhaven, Ontario
+1815: Milltown-Head of Bay D'Espoir, Newfoundland
+1816: Millville, New Brunswick
+1817: Milo, Alberta
+1818: Milton, Ontario
+1819: Milverton, Ontario
+1820: Minaki, Ontario
+1821: Minburn, Alberta
+1822: Mindemoya, Ontario
+1823: Minden, Ontario
+1824: Mine Centre, Ontario
+1825: Ming's Bight, Newfoundland
+1826: Miniota, Manitoba
+1827: Minnedosa, Manitoba
+1828: Minto, Manitoba
+1829: Minto, New Brunswick
+1830: Minton, Saskatchewan
+1831: Mirabel, Quebec
+1832: Miramichi, New Brunswick
+1833: Mirror, Alberta
+1834: Miscou Island, New Brunswick
+1835: Missanabie, Ontario
+1836: Mission, British Columbia
+1837: Mississauga, Ontario
+1838: Mistassini, Quebec
+1839: Mistatim, Saskatchewan
+1840: Mitchell, Ontario
+1841: Mohawks Of The Bay of Quinte F, Ontario
+1842: Moisie, Quebec
+1843: Molanosa, Saskatchewan
+1844: Monastery, Nova Scotia
+1845: Moncton, New Brunswick
+1846: Monkstown, Newfoundland
+1847: Monkton, Ontario
+1848: Mont Bechervaise, Quebec
+1849: Mont St Grégoire, Quebec
+1850: Mont-Joli, Quebec
+1851: Mont-Laurier, Quebec
+1852: Mont-Louis, Quebec
+1853: Mont-Rolland, Quebec
+1854: Mont-Royal, Quebec
+1855: Mont-St-Hilaire, Quebec
+1856: Mont-St-Pierre, Quebec
+1857: Mont-Tremblant, Quebec
+1858: Montague, Prince Edward Island
+1859: Montebello, Quebec
+1860: Montmagny, Quebec
+1861: Montmartre, Saskatchewan
+1862: Montney, British Columbia
+1863: Montreal, Quebec
+1864: Montreal - Est, Quebec
+1865: Montréal - Nord, Quebec
+1866: Montréal - Ouest, Quebec
+1867: Moonbeam, Ontario
+1868: Moonstone, Ontario
+1869: Mooretown, Ontario
+1870: Moose Creek, Ontario
+1871: Moose Factory, Ontario
+1872: Moose Jaw, Saskatchewan
+1873: Moose Lake, Manitoba
+1874: Moosomin, Saskatchewan
+1875: Moosonee, Ontario
+1876: Morden, Manitoba
+1877: Morell, Prince Edward Island
+1878: Morin-Heights, Quebec
+1879: Morinville, Alberta
+1880: Morley, Alberta
+1881: Morrin, Alberta
+1882: Morris, Manitoba
+1883: Morrisburg, Ontario
+1884: Morse, Saskatchewan
+1885: Morson, Ontario
+1886: Mortlach, Saskatchewan
+1887: Mossbank, Saskatchewan
+1888: Mount Albert, Ontario
+1889: Mount Brydges, Ontario
+1890: Mount Carmel-Mitchells Brook-S, Newfoundland
+1891: Mount Forest, Ontario
+1892: Mount Hope, Ontario
+1893: Mount Moriah, Newfoundland
+1894: Mount Pearl, Newfoundland
+1895: Mount Pleasant, Ontario
+1896: Mount Stewart, Prince Edward Island
+1897: Mount Uniacke, Nova Scotia
+1898: Moyie, British Columbia
+1899: Mulgrave, Nova Scotia
+1900: Mulhurst, Alberta
+1901: Muncho Lake, British Columbia
+1902: Mundare, Alberta
+1903: Murdochville, Quebec
+1904: Murray River, Prince Edward Island
+1905: Musgrave Harbour, Newfoundland
+1906: Musgravetown, Newfoundland
+1907: Muskoka, Ontario
+1908: Muskoka Falls, Ontario
+1909: Muskrat Dam, Ontario
+1910: Muskrat Dam First Nation, Ontario
+1911: Musquodoboit Harbour, Nova Scotia
+1912: Mutton Bay, Quebec
+1913: Myrnam, Alberta
+1914: M'Chigeeng, Ontario
+1915: Nackawic, New Brunswick
+1916: Nahanni Butte, Northwest Territories
+1917: Naicam, Saskatchewan
+1918: Nain, Newfoundland
+1919: Nairn, Ontario
+1920: Naiscoutaing First Nation, Ontario
+1921: Nakina, Ontario
+1922: Nakusp, British Columbia
+1923: Namao, Alberta
+1924: Nampa, Alberta
+1925: Nanaimo, British Columbia
+1926: Nantes, Quebec
+1927: Nanticoke, Ontario
+1928: Nanton, Alberta
+1929: Napanee, Ontario
+1930: Napierville, Quebec
+1931: Naramata, British Columbia
+1932: Natashquan, Quebec
+1933: Navan, Ontario
+1934: Nedelec, Quebec
+1935: Neepawa, Manitoba
+1936: Neguac, New Brunswick
+1937: Neidpath, Saskatchewan
+1938: Neilburg, Saskatchewan
+1939: Nelson, British Columbia
+1940: Nelson House, Manitoba
+1941: Nepean, Ontario
+1942: Nephton, Ontario
+1943: Nestor Falls, Ontario
+1944: Neudorf, Saskatchewan
+1945: Neustadt, Ontario
+1946: Neuville, Quebec
+1947: Neville, Saskatchewan
+1948: New Aiyansh, British Columbia
+1949: New Carlisle, Quebec
+1950: New Dayton, Alberta
+1951: New Denmark, New Brunswick
+1952: New Denver, British Columbia
+1953: New Dundee, Ontario
+1954: New Germany, Nova Scotia
+1955: New Glasgow, Nova Scotia
+1956: New Glasgow, Quebec
+1957: New Hamburg, Ontario
+1958: New Harbour, Newfoundland
+1959: New Haven, Prince Edward Island
+1960: New Liskeard, Ontario
+1961: New London, Prince Edward Island
+1962: New Norway, Alberta
+1963: New Perlican, Newfoundland
+1964: New Richmond, Quebec
+1965: New Ross, Nova Scotia
+1966: New Sarepta, Alberta
+1967: New Tecumseth, Ontario
+1968: New Waterford, Nova Scotia
+1969: New Westminster, British Columbia
+1970: New-Wes-Valley, Newfoundland
+1971: Newbrook, Alberta
+1972: Newburgh, Ontario
+1973: Newcastle, Ontario
+1974: Newdale, Manitoba
+1975: Newmarket, Ontario
+1976: Newport, Quebec
+1977: Newtonville, Ontario
+1978: Niagara Falls, Ontario
+1979: Niagara-on-the-Lake, Ontario
+1980: Nickel Centre, Ontario
+1981: Nicolet, Quebec
+1982: Nimpo Lake, British Columbia
+1983: Nipawin, Saskatchewan
+1984: Nipigon, Ontario
+1985: Nipissing First Nation, Ontario
+1986: Nippers Harbour, Newfoundland
+1987: Nisku, Alberta
+1988: Niton Junction, Alberta
+1989: Niverville, Manitoba
+1990: Nobel, Ontario
+1991: Nobleford, Alberta
+1992: Nobleton, Ontario
+1993: Noel, Nova Scotia
+1994: Noelville, Ontario
+1995: Nokomis, Saskatchewan
+1996: Norbertville, Quebec
+1997: Nordegg, Alberta
+1998: Norman Wells, Northwest Territories
+1999: Normandin, Quebec
+2000: Norman's Cove-Long Cove, Newfoundland
+2001: Normetal, Quebec
+2002: Norquay, Saskatchewan
+2003: Norris Arm, Newfoundland
+2004: North Augusta, Ontario
+2005: North Battleford, Saskatchewan
+2006: North Bay, Ontario
+2007: North Gower, Ontario
+2008: North Hatley, Quebec
+2009: North Portal, Saskatchewan
+2010: North Saanich, British Columbia
+2011: North Spirit Lake, Ontario
+2012: North Sydney, Nova Scotia
+2013: North Vancouver, British Columbia
+2014: North West River, Newfoundland
+2015: North York, Ontario
+2016: Northbrook, Ontario
+2017: Northern Arm, Newfoundland
+2018: Norton, New Brunswick
+2019: Norval, Ontario
+2020: Norway House, Manitoba
+2021: Norwich, Ontario
+2022: Norwood, Ontario
+2023: Notre Dame de Bonsecours, Quebec
+2024: Notre Dame de Lourdes, Manitoba
+2025: Notre Dame de Lourdes, Quebec
+2026: Notre Dame De L'Ile Perrot, Quebec
+2027: Notre Dame des Laurentides, Quebec
+2028: Notre Dame Des Prairies, Quebec
+2029: Notre Dame Du Portage, Quebec
+2030: Notre-Dame-de-la-Paix, Quebec
+2031: Notre-Dame-de-la-Salette, Quebec
+2032: Notre-Dame-de-Stanbridge, Quebec
+2033: Notre-Dame-du-Bon-Conseil, Quebec
+2034: Notre-Dame-du-Lac, Quebec
+2035: Notre-Dame-du-Laus, Quebec
+2036: Notre-Dame-du-Nord, Quebec
+2037: Nouvelle, Quebec
+2038: Oak Lake, Manitoba
+2039: Oak Ridges, Ontario
+2040: Oak River, Manitoba
+2041: Oakville, Manitoba
+2042: Oakville, Ontario
+2043: Oakwood, Ontario
+2044: Oba, Ontario
+2045: Ocean Falls, British Columbia
+2046: Ocean Park, British Columbia
+2047: Ochre River, Manitoba
+2048: Odessa, Ontario
+2049: Odessa, Saskatchewan
+2050: Ogema, Saskatchewan
+2051: Ogoki, Ontario
+2052: Ohsweken, Ontario
+2053: Oil Springs, Ontario
+2054: Ojibways of Hiawatha First Nat, Ontario
+2055: Ojibways of Walpole Island Fir, Ontario
+2056: Oka, Quebec
+2057: Okanagan Falls, British Columbia
+2058: Okotoks, Alberta
+2059: Old Crow, Yukon
+2060: Old Perlican, Newfoundland
+2061: Olds, Alberta
+2062: Oliver, British Columbia
+2063: Omemee, Ontario
+2064: Omerville, Quebec
+2065: Onaping Falls, Ontario
+2066: Oneida First Nation, Ontario
+2067: Onoway, Alberta
+2068: Opasatika, Ontario
+2069: Ophir, Ontario
+2070: Orangeville, Ontario
+2071: Orford, Quebec
+2072: Orillia, Ontario
+2073: Orleans, Ontario
+2074: Ormiston, Saskatchewan
+2075: Ormstown, Quebec
+2076: Oro, Ontario
+2077: Oromocto, New Brunswick
+2078: Orono, Ontario
+2079: Orrville, Ontario
+2080: Osgoode, Ontario
+2081: Oshawa, Ontario
+2082: Osler, Saskatchewan
+2083: Osoyoos, British Columbia
+2084: Ottawa, Ontario
+2085: Otterburn Park, Quebec
+2086: Otterville, Ontario
+2087: Outlook, Saskatchewan
+2088: Outremont, Quebec
+2089: Owen Sound, Ontario
+2090: Oxbow, Saskatchewan
+2091: Oxdrift, Ontario
+2092: Oxford, Nova Scotia
+2093: Oxford House, Manitoba
+2094: Oxford Mills, Ontario
+2095: Oyama, British Columbia
+2096: Oyen, Alberta
+2097: O'Leary, Prince Edward Island
+2098: Packs Harbour, Newfoundland
+2099: Pacquet, Newfoundland
+2100: Paddockwood, Saskatchewan
+2101: Paisley, Ontario
+2102: Pakenham, Ontario
+2103: Palgrave, Ontario
+2104: Palmarolle, Quebec
+2105: Palmer Rapids, Ontario
+2106: Palmerston, Ontario
+2107: Pangman, Saskatchewan
+2108: Papineauville, Quebec
+2109: Paquette Corner, Ontario
+2110: Paquetville, New Brunswick
+2111: Paradise, Newfoundland
+2112: Paradise Hill, Saskatchewan
+2113: Paradise River, Newfoundland
+2114: Paradise Valley, Alberta
+2115: Parent, Quebec
+2116: Parham, Ontario
+2117: Paris, Ontario
+2118: Parkhill, Ontario
+2119: Parksville, British Columbia
+2120: Parrsboro, Nova Scotia
+2121: Parry Sound, Ontario
+2122: Parson, British Columbia
+2123: Pasadena, Newfoundland
+2124: Pass Lake, Ontario
+2125: Patuanak, Saskatchewan
+2126: Paynton, Saskatchewan
+2127: Peace River, Alberta
+2128: Peachland, British Columbia
+2129: Peawanuck, Ontario
+2130: Peerless Lake, Alberta
+2131: Peers, Alberta
+2132: Pefferlaw, Ontario
+2133: Peggy's Cove, Nova Scotia
+2134: Peguis, Manitoba
+2135: Pelee Island, Ontario
+2136: Pelham, Ontario
+2137: Pelican Narrows, Saskatchewan
+2138: Pelican Rapids, Manitoba
+2139: Pelly, Saskatchewan
+2140: Pelly Crossing, Yukon
+2141: Pemberton, British Columbia
+2142: Pembroke, Ontario
+2143: Penetanguishene, Ontario
+2144: Penhold, Alberta
+2145: Pennant, Saskatchewan
+2146: Pense, Saskatchewan
+2147: Penticton, British Columbia
+2148: Perce, Quebec
+2149: Perdue, Saskatchewan
+2150: Peribonka, Quebec
+2151: Perkins, Quebec
+2152: Perrault Falls, Ontario
+2153: Perth, Ontario
+2154: Perth-Andover, New Brunswick
+2155: Petawawa, Ontario
+2156: Peterborough, Ontario
+2157: Peterview, Newfoundland
+2158: Petit Rocher, New Brunswick
+2159: Petitcodiac, New Brunswick
+2160: Petite-Riviere-St-Francois, Quebec
+2161: Petrolia, Ontario
+2162: Petty Harbour-Maddox Cove, Newfoundland
+2163: Philipsburg, Quebec
+2164: Piapot, Saskatchewan
+2165: Pickering, Ontario
+2166: Pickle Lake, Ontario
+2167: Picton, Ontario
+2168: Pictou, Nova Scotia
+2169: Picture Butte, Alberta
+2170: Pierceland, Saskatchewan
+2171: Pierrefonds, Quebec
+2172: Pierreville, Quebec
+2173: Pikangikum First Nation, Ontario
+2174: Pikwitonei, Manitoba
+2175: Pilot Butte, Saskatchewan
+2176: Pilot Mound, Manitoba
+2177: Pinawa, Manitoba
+2178: Pincher Creek, Alberta
+2179: Pincourt, Quebec
+2180: Pine Dock, Manitoba
+2181: Pine Falls, Manitoba
+2182: Pine River, Manitoba
+2183: Pineal Lake, Ontario
+2184: Pinehouse, Saskatchewan
+2185: Piney, Manitoba
+2186: Pintendre, Quebec
+2187: Pitt Meadows, British Columbia
+2188: Placentia, Newfoundland
+2189: Plaisance, Quebec
+2190: Plamondon, Alberta
+2191: Plantagenet, Ontario
+2192: Plaster Rock, New Brunswick
+2193: Plate Cove East, Newfoundland
+2194: Plato, Saskatchewan
+2195: Plattsville, Ontario
+2196: Pleasant Park, Ontario
+2197: Plenty, Saskatchewan
+2198: Plessisville, Quebec
+2199: Plevna, Ontario
+2200: Plum Coulee, Manitoba
+2201: Plumas, Manitoba
+2202: Pohenegamook, Quebec
+2203: Point Grondine First Nation, Ontario
+2204: Point Leamington, Newfoundland
+2205: Point Pelee, Ontario
+2206: Pointe au Baril, Ontario
+2207: Pointe Aux Trembles, Quebec
+2208: Pointe du Bois, Manitoba
+2209: Pointe-a-la-Croix, Quebec
+2210: Pointe-au-Pere, Quebec
+2211: Pointe-aux-Outardes, Quebec
+2212: Pointe-Calumet, Quebec
+2213: Pointe-Claire, Quebec
+2214: Pointe-des-Cascades, Quebec
+2215: Pointe-des-Monts, Quebec
+2216: Pointe-Fortune, Quebec
+2217: Pointe-Lebel, Quebec
+2218: Ponoka, Alberta
+2219: Pont-Rouge, Quebec
+2220: Pont-Viau, Quebec
+2221: Ponteix, Saskatchewan
+2222: Pontiac, Quebec
+2223: Pool's Cove, Newfoundland
+2224: Poplar River, Manitoba
+2225: Poplarfield, Manitoba
+2226: Porcupine Plain, Saskatchewan
+2227: Port Alberni, British Columbia
+2228: Port Alice, British Columbia
+2229: Port au Choix, Newfoundland
+2230: Port au Port West-Aguathuna-Fe, Newfoundland
+2231: Port Aux Basques, Newfoundland
+2232: Port Bickerton, Nova Scotia
+2233: Port Blandford, Newfoundland
+2234: Port Burwell, Ontario
+2235: Port Carling, Ontario
+2236: Port Clements, British Columbia
+2237: Port Colborne, Ontario
+2238: Port Coquitlam, British Columbia
+2239: Port Credit, Ontario
+2240: Port Cunnington, Ontario
+2241: Port Dover, Ontario
+2242: Port Dufferin, Nova Scotia
+2243: Port Edward, British Columbia
+2244: Port Elgin, New Brunswick
+2245: Port Elgin, Ontario
+2246: Port Franks, Ontario
+2247: Port Greville, Nova Scotia
+2248: Port Hardy, British Columbia
+2249: Port Hawkesbury, Nova Scotia
+2250: Port Hood, Nova Scotia
+2251: Port Hope, Ontario
+2252: Port Hope Simpson, Newfoundland
+2253: Port La Tour, Nova Scotia
+2254: Port Lambton, Ontario
+2255: Port Loring, Ontario
+2256: Port Maitland, Nova Scotia
+2257: Port McNeill, British Columbia
+2258: Port McNicoll, Ontario
+2259: Port Mellon, British Columbia
+2260: Port Moody, British Columbia
+2261: Port Morien, Nova Scotia
+2262: Port Mouton, Nova Scotia
+2263: Port Perry, Ontario
+2264: Port Renfrew, British Columbia
+2265: Port Rexton, Newfoundland
+2266: Port Robinson, Ontario
+2267: Port Rowan, Ontario
+2268: Port Saunders, Newfoundland
+2269: Port Stanley, Ontario
+2270: Port Sydney, Ontario
+2271: Port Union, Newfoundland
+2272: Port-Cartier, Quebec
+2273: Port-Daniel, Quebec
+2274: Port-Menier, Quebec
+2275: Portage la Prairie, Manitoba
+2276: Portage-du-Fort, Quebec
+2277: Portland, Ontario
+2278: Portneuf, Quebec
+2279: Portugal Cove-St. Philip's, Newfoundland
+2280: Poste-de-la-Baleine, Quebec
+2281: Postville, Newfoundland
+2282: Pouce Coupe, British Columbia
+2283: Pouch Cove, Newfoundland
+2284: Powassan, Ontario
+2285: Powell River, British Columbia
+2286: Preeceville, Saskatchewan
+2287: Prelate, Saskatchewan
+2288: Prescott, Ontario
+2289: Prespatou, British Columbia
+2290: Preston, Ontario
+2291: Prevost, Quebec
+2292: Price, Quebec
+2293: Prince Albert, Saskatchewan
+2294: Prince George, British Columbia
+2295: Prince Rupert, British Columbia
+2296: Princeton, British Columbia
+2297: Princeton, Newfoundland
+2298: Princeton, Ontario
+2299: Princeville, Quebec
+2300: Prophet River, British Columbia
+2301: Provost, Alberta
+2302: Prud'homme, Saskatchewan
+2303: Pubnico, Nova Scotia
+2304: Puce, Ontario
+2305: Pugwash, Nova Scotia
+2306: Punnichy, Saskatchewan
+2307: Puvirnituq, Quebec
+2308: Quadra Island, British Columbia
+2309: Qualicum Beach, British Columbia
+2310: Quebec, Quebec
+2311: Queen Charlotte, British Columbia
+2312: Queensport, Nova Scotia
+2313: Queenston, Ontario
+2314: Queensville, Ontario
+2315: Quesnel, British Columbia
+2316: Quill Lake, Saskatchewan
+2317: Quispamsis, New Brunswick
+2318: Quyon, Quebec
+2319: Qu'Appelle, Saskatchewan
+2320: Rabbit Lake, Saskatchewan
+2321: Radisson, Quebec
+2322: Radisson, Saskatchewan
+2323: Radium Hot Springs, British Columbia
+2324: Radville, Saskatchewan
+2325: Radway, Alberta
+2326: Rae, Northwest Territories
+2327: Rae Lakes, Northwest Territories
+2328: Rainbow Lake, Alberta
+2329: Rainy Lake First Nation, Ontario
+2330: Rainy River, Ontario
+2331: Raith, Ontario
+2332: Raleigh, Newfoundland
+2333: Ralston, Alberta
+2334: Ramea, Newfoundland
+2335: Ramore, Ontario
+2336: Rankin Inlet, Nunavut
+2337: Rapid City, Manitoba
+2338: Rathwell, Manitoba
+2339: Rawdon, Quebec
+2340: Raymond, Alberta
+2341: Raymore, Saskatchewan
+2342: Rayside-Balfour, Ontario
+2343: Red Bank, New Brunswick
+2344: Red Bay, Newfoundland
+2345: Red Deer, Alberta
+2346: Red Lake, Ontario
+2347: Red Rock, British Columbia
+2348: Red Rock, Ontario
+2349: Red Sucker Lake, Manitoba
+2350: Redbridge, Ontario
+2351: Redcliff, Alberta
+2352: Redditt, Ontario
+2353: Redvers, Saskatchewan
+2354: Redwater, Alberta
+2355: Reefs Harbour, Newfoundland
+2356: Regina, Saskatchewan
+2357: Regina Beach, Saskatchewan
+2358: Remigny, Quebec
+2359: Rencontre East, Newfoundland
+2360: Renfrew, Ontario
+2361: Rennie, Manitoba
+2362: Repentigny, Quebec
+2363: Réserve faunique de Rimouski, Quebec
+2364: Réserve faunique la Vérendrye, Quebec
+2365: Réserves fauniques de Matane e, Quebec
+2366: Resolute, Nunavut
+2367: Reston, Manitoba
+2368: Restoule, Ontario
+2369: Revelstoke, British Columbia
+2370: Rhein, Saskatchewan
+2371: Riceton, Saskatchewan
+2372: Richelieu, Quebec
+2373: Richibucto, New Brunswick
+2374: Richmond, British Columbia
+2375: Richmond, Ontario
+2376: Richmond, Quebec
+2377: Richmond Hill, Ontario
+2378: Richmound, Saskatchewan
+2379: Ridgedale, Saskatchewan
+2380: Ridgetown, Ontario
+2381: Ridgeway, Ontario
+2382: Rigaud, Quebec
+2383: Rigolet, Newfoundland
+2384: Rimbey, Alberta
+2385: Rimouski, Quebec
+2386: Rimouski-Est, Quebec
+2387: Riondel, British Columbia
+2388: Ripley, Ontario
+2389: Ripon, Quebec
+2390: Riske Creek, British Columbia
+2391: River Hebert, Nova Scotia
+2392: River John, Nova Scotia
+2393: River of Ponds, Newfoundland
+2394: Riverhurst, Saskatchewan
+2395: Riverport, Nova Scotia
+2396: Rivers, Manitoba
+2397: Riverton, Manitoba
+2398: Riverview, New Brunswick
+2399: Riviere-a-Pierre, Quebec
+2400: Riviere-au-Renard, Quebec
+2401: Riviere-au-Tonnerre, Quebec
+2402: Riviere-Beaudette, Quebec
+2403: Riviere-Bleue, Quebec
+2404: Riviere-du-Loup, Quebec
+2405: Riviere-Heva, Quebec
+2406: Riviere-St-Jean, Quebec
+2407: Robb, Alberta
+2408: Robertsonville, Quebec
+2409: Robert's Arm, Newfoundland
+2410: Roberval, Quebec
+2411: Roblin, Manitoba
+2412: Rocanville, Saskatchewan
+2413: Rochebaucourt, Quebec
+2414: Rochester, Alberta
+2415: Rock Creek, British Columbia
+2416: Rock Forest, Quebec
+2417: Rockglen, Saskatchewan
+2418: Rockland, Ontario
+2419: Rockwood, Ontario
+2420: Rocky Harbour, Newfoundland
+2421: Rocky Mountain House, Alberta
+2422: Rockyford, Alberta
+2423: Roddickton, Newfoundland
+2424: Rodney, Ontario
+2425: Rogersville, New Brunswick
+2426: Roland, Manitoba
+2427: Rolla, British Columbia
+2428: Rollet, Quebec
+2429: Rolling Hills, Alberta
+2430: Rolphton, Ontario
+2431: Rondeau, Ontario
+2432: Rorketon, Manitoba
+2433: Rosalind, Alberta
+2434: Rose Blanche-Harbour Le Cou, Newfoundland
+2435: Rose Valley, Saskatchewan
+2436: Rosebud, Alberta
+2437: Rosemere, Quebec
+2438: Roseneath, Ontario
+2439: Rosetown, Saskatchewan
+2440: Ross River, Yukon
+2441: Rossburn, Manitoba
+2442: Rosseau, Ontario
+2443: Rossland, British Columbia
+2444: Rosthern, Saskatchewan
+2445: Rothesay, New Brunswick
+2446: Rougemont, Quebec
+2447: Rouleau, Saskatchewan
+2448: Rouyn-Noranda, Quebec
+2449: Roxboro, Quebec
+2450: Roxton Falls, Quebec
+2451: Roxton Pond, Quebec
+2452: Rumsey, Alberta
+2453: Rushoon, Newfoundland
+2454: Russell, Manitoba
+2455: Russell, Ontario
+2456: Rusticoville, Prince Edward Island
+2457: Ruthven, Ontario
+2458: Rycroft, Alberta
+2459: Ryley, Alberta
+2460: Saanich, British Columbia
+2461: Sabrevois, Quebec
+2462: Sachigo First Nation Reserve 1, Ontario
+2463: Sackville, New Brunswick
+2464: Sacre Coeur, Quebec
+2465: Saint Alexandre D'Iberville, Quebec
+2466: Saint Alphonse de Granby, Quebec
+2467: Saint Amable, Quebec
+2468: Saint Andrews, New Brunswick
+2469: Saint Antoine Des Laurentides, Quebec
+2470: Saint Antoine Sur Richelieu, Quebec
+2471: Saint Antonin, Quebec
+2472: Saint Athanase, Quebec
+2473: Saint Calixte, Quebec
+2474: Saint Charles Borromee, Quebec
+2475: Saint Charles Sur Richelieu, Quebec
+2476: Saint Christophe D'Arthabaska, Quebec
+2477: Saint Clair Beach, Ontario
+2478: Saint Colomban, Quebec
+2479: Saint Denis De Brompton, Quebec
+2480: Saint Denis Sur Richelieu, Quebec
+2481: Saint Esprit, Quebec
+2482: Saint Etienne de Beauharnois, Quebec
+2483: Saint Etienne de Lauzon, Quebec
+2484: Saint Gerard Majella, Quebec
+2485: Saint Isidore de la Prairie, Quebec
+2486: Saint Jean Baptiste, Quebec
+2487: Saint Jean D'Orleans, Quebec
+2488: Saint Joachim, Quebec
+2489: Saint John, New Brunswick
+2490: Saint Joseph De La Pointe De L, Quebec
+2491: Saint Laurent D'Orleans, Quebec
+2492: Saint Lazare De Vaudreuil, Quebec
+2493: Saint Lin Laurentides, Quebec
+2494: Saint Marc Sur Richelieu, Quebec
+2495: Saint Mathias Sur Richelieu, Quebec
+2496: Saint Mathieu de Beloeil, Quebec
+2497: Saint Mathieu de la Prairie, Quebec
+2498: Saint Maurice, Quebec
+2499: Saint Norbert D'Arthabaska, Quebec
+2500: Saint Paul D'Industrie, Quebec
+2501: Saint Philippe, Quebec
+2502: Saint Pierre D'Orleans, Quebec
+2503: Saint Robert, Quebec
+2504: Saint Roch De L'Achigan, Quebec
+2505: Saint Roch De Richelieu, Quebec
+2506: Saint Sulpice, Quebec
+2507: Saint Thomas, Quebec
+2508: Saint Urbain Premier, Quebec
+2509: Saint Valere, Quebec
+2510: Saint Victoire de Sorel, Quebec
+2511: Saint-Alexis-de-Montcalm, Quebec
+2512: Saint-Côme, Quebec
+2513: Saint-Donat, Quebec
+2514: Saint-Élie, Quebec
+2515: Saint-Élie-d'Orford, Quebec
+2516: Saint-Ferdinand, Quebec
+2517: Saint-Ferréol-les-neiges, Quebec
+2518: Saint-Hubert, Quebec
+2519: Saint-Hyacinthe, Quebec
+2520: Saint-Michel-des-Saints, Quebec
+2521: Sainte Angele De Monnoir, Quebec
+2522: Sainte Ann De Sorel, Quebec
+2523: Sainte Brigide D'Iberville, Quebec
+2524: Sainte Cecile De Milton, Quebec
+2525: Sainte Dorotheé, Quebec
+2526: Sainte Famille, Quebec
+2527: Sainte Marie Salome, Quebec
+2528: Sainte Marthe Du Cap, Quebec
+2529: Sainte Sophie, Quebec
+2530: Sainte Therese De Blainville, Quebec
+2531: Salaberry-de-Valleyfield, Quebec
+2532: Salem, Ontario
+2533: Salisbury, New Brunswick
+2534: Salluit, Quebec
+2535: Salmo, British Columbia
+2536: Salmon Arm, British Columbia
+2537: Salmon Cove, Newfoundland
+2538: Salmon Valley, British Columbia
+2539: Salt Springs, Nova Scotia
+2540: Saltcoats, Saskatchewan
+2541: Salvage, Newfoundland
+2542: Sandspit, British Columbia
+2543: Sandwich, Ontario
+2544: Sandy Bay, Saskatchewan
+2545: Sandy Cove Acres, Ontario
+2546: Sandy Lake, Manitoba
+2547: Sandy Lake, Ontario
+2548: Sandy Lake First Nation, Ontario
+2549: Sanford, Manitoba
+2550: Sangudo, Alberta
+2551: Sanmaur, Quebec
+2552: Sapawe, Ontario
+2553: Sarnia, Ontario
+2554: Saskatchewan River Crossing, Alberta
+2555: Saskatoon, Saskatchewan
+2556: Sauble Beach, Ontario
+2557: Saugeen First Nation, Ontario
+2558: Saulnierville, Nova Scotia
+2559: Sault Ste. Marie, Ontario
+2560: Sault-au-Mouton, Quebec
+2561: Savant Lake, Ontario
+2562: Savona, British Columbia
+2563: Sawyerville, Quebec
+2564: Sayabec, Quebec
+2565: Sayward, British Columbia
+2566: Scarborough, Ontario
+2567: Sceptre, Saskatchewan
+2568: Schefferville, Quebec
+2569: Schomberg, Ontario
+2570: Schreiber, Ontario
+2571: Schuler, Alberta
+2572: Scotland, Ontario
+2573: Scotstown, Quebec
+2574: Scott, Saskatchewan
+2575: Seaforth, Ontario
+2576: Seal Cove, Newfoundland
+2577: Searchmont, Ontario
+2578: Seba Beach, Alberta
+2579: Sebright, Ontario
+2580: Sebringville, Ontario
+2581: Sechelt, British Columbia
+2582: Sedgewick, Alberta
+2583: Sedley, Saskatchewan
+2584: Seeleys Bay, Ontario
+2585: Selby, Ontario
+2586: Seldom-Little Seldom, Newfoundland
+2587: Selkirk, Manitoba
+2588: Selkirk, Ontario
+2589: Semans, Saskatchewan
+2590: Senneterre, Quebec
+2591: Senneville, Quebec
+2592: Sept-Iles, Quebec
+2593: Serpent River First Nation, Ontario
+2594: Seven Persons, Alberta
+2595: Severn Bridge, Ontario
+2596: Sexsmith, Alberta
+2597: Shakespeare, Ontario
+2598: Shalalth, British Columbia
+2599: Shamattawa, Manitoba
+2600: Shannonville, Ontario
+2601: Sharbot Lake, Ontario
+2602: Shaunavon, Saskatchewan
+2603: Shawanaga First Nation, Ontario
+2604: Shawbridge, Quebec
+2605: Shawinigan, Quebec
+2606: Shawinigan-Sud, Quebec
+2607: Shawville, Quebec
+2608: Shebandowan, Ontario
+2609: Shedden, Ontario
+2610: Shediac, New Brunswick
+2611: Shefford, Quebec
+2612: Sheho, Saskatchewan
+2613: Shelburne, Nova Scotia
+2614: Shelburne, Ontario
+2615: Shell Lake, Saskatchewan
+2616: Shellbrook, Saskatchewan
+2617: Sherbrooke, Nova Scotia
+2618: Sherbrooke, Quebec
+2619: Sherwood Park, Alberta
+2620: Shigawake, Quebec
+2621: Shilo, Manitoba
+2622: Shippagan, New Brunswick
+2623: Shipshaw, Quebec
+2624: Shoal Lake, Manitoba
+2625: Shubenacadie, Nova Scotia
+2626: Sibbald, Alberta
+2627: Sicamous, British Columbia
+2628: Sidney, British Columbia
+2629: Sidney, Manitoba
+2630: Sifton, Manitoba
+2631: Sillery, Quebec
+2632: Silver Valley, Alberta
+2633: Silver Water, Ontario
+2634: Simcoe, Ontario
+2635: Simpson, Saskatchewan
+2636: Sintaluta, Saskatchewan
+2637: Sioux Lookout, Ontario
+2638: Sioux Narrows, Ontario
+2639: Six Nations of the Grand River, Ontario
+2640: Skookumchuck, British Columbia
+2641: Slave Lake, Alberta
+2642: Slocan, British Columbia
+2643: Small Point-Broad Cove-Blackhe, Newfoundland
+2644: Smeaton, Saskatchewan
+2645: Smiley, Saskatchewan
+2646: Smith, Alberta
+2647: Smithers, British Columbia
+2648: Smiths Falls, Ontario
+2649: Smithville, Ontario
+2650: Smoky Lake, Alberta
+2651: Smooth Rock Falls, Ontario
+2652: Snelgrove, Ontario
+2653: Snow Lake, Manitoba
+2654: Snowflake, Manitoba
+2655: Sointula, British Columbia
+2656: Sombra, Ontario
+2657: Somerset, Manitoba
+2658: Sooke, British Columbia
+2659: Sorel-Tracy, Quebec
+2660: Sorrento, British Columbia
+2661: Souris, Manitoba
+2662: Souris, Prince Edward Island
+2663: South Brook, Newfoundland
+2664: South Indian Lake, Manitoba
+2665: South Lake, Prince Edward Island
+2666: South Mountain, Ontario
+2667: South River, Newfoundland
+2668: South River, Ontario
+2669: South Slocan, British Columbia
+2670: Southampton, Nova Scotia
+2671: Southampton, Ontario
+2672: Southend, Saskatchewan
+2673: Southern Harbour, Newfoundland
+2674: Southey, Saskatchewan
+2675: Spalding, Saskatchewan
+2676: Spaniard's Bay, Newfoundland
+2677: Spanish, Ontario
+2678: Sparta, Ontario
+2679: Sparwood, British Columbia
+2680: Speers, Saskatchewan
+2681: Spencerville, Ontario
+2682: Spences Bridge, British Columbia
+2683: Sperling, Manitoba
+2684: Spillimacheen, British Columbia
+2685: Spirit River, Alberta
+2686: Spiritwood, Saskatchewan
+2687: Split Lake, Manitoba
+2688: Spotted Island, Newfoundland
+2689: Sprague, Manitoba
+2690: Springdale, Newfoundland
+2691: Springfield, New Brunswick
+2692: Springfield, Nova Scotia
+2693: Springhill, Nova Scotia
+2694: Springside, Saskatchewan
+2695: Spruce Grove, Alberta
+2696: Spruce View, Alberta
+2697: Sprucedale, Ontario
+2698: Spy Hill, Saskatchewan
+2699: Squamish, British Columbia
+2700: Squatec, Quebec
+2701: St-Adelphe, Quebec
+2702: St-Adolphe-de-Dudswell, Quebec
+2703: St-Adolphe-d'Howard, Quebec
+2704: St-Agapit, Quebec
+2705: St-Aime, Quebec
+2706: St-Albert, Quebec
+2707: St-Alexandre-de-Kamouraska, Quebec
+2708: St-Alexis-de-Matapedia, Quebec
+2709: St-Alexis-des-Monts, Quebec
+2710: St-Alphonse-Rodriguez, Quebec
+2711: St-Andre, Quebec
+2712: St-Andre-Avellin, Quebec
+2713: St-Andre-du-Lac-St-Jean, Quebec
+2714: St-Andre-Est, Quebec
+2715: St-Anselme, Quebec
+2716: St-Antoine, New Brunswick
+2717: St-Antoine, Quebec
+2718: St-Antoine-de-Tilly, Quebec
+2719: St-Apollinaire, Quebec
+2720: St-Augustin-de-Desmaures, Quebec
+2721: St-Barnabe, Quebec
+2722: St-Barthelemy, Quebec
+2723: St-Basile, New Brunswick
+2724: St-Basile-le-Grand, Quebec
+2725: St-Basile-Sud, Quebec
+2726: St-Blaise-sur-Richelieu, Quebec
+2727: St-Boniface-de-Shawinigan, Quebec
+2728: St-Bruno, Quebec
+2729: St-Bruno-de-Montarville, Quebec
+2730: St-Calixte-de-Kilkenny, Quebec
+2731: St-Casimir, Quebec
+2732: St-Celestin, Quebec
+2733: St-Cesaire, Quebec
+2734: St-Charles-de-Bellechasse, Quebec
+2735: St-Chrysostome, Quebec
+2736: St-Clet, Quebec
+2737: St-Constant, Quebec
+2738: St-Cyrille-de-Wendover, Quebec
+2739: St-Damase, Quebec
+2740: St-Damien-de-Buckland, Quebec
+2741: St-Denis, Quebec
+2742: St-Edouard-de-Lotbiniere, Quebec
+2743: St-Eleuthere, Quebec
+2744: St-Emile, Quebec
+2745: St-Emile-de-Suffolk, Quebec
+2746: St-Ephrem-de-Beauce, Quebec
+2747: St-Ephrem-de-Tring, Quebec
+2748: St-Eugene, Ontario
+2749: St-Eugene-de-Guigues, Quebec
+2750: St-Eustache, Quebec
+2751: St-Fabien-de-Panet, Quebec
+2752: St-Felicien, Quebec
+2753: St-Felix-de-Kingsey, Quebec
+2754: St-Felix-de-Valois, Quebec
+2755: St-Fidele-de-Mont-Murray, Quebec
+2756: St-Flavien, Quebec
+2757: St-Francois-du-Lac, Quebec
+2758: St-Fulgence, Quebec
+2759: St-Gabriel, Quebec
+2760: St-Gabriel-de-Brandon, Quebec
+2761: St-Gedeon, Quebec
+2762: St-Georges, Quebec
+2763: St-Georges-de-Beauce, Quebec
+2764: St-Georges-de-Cacouna, Quebec
+2765: St-Gerard, Quebec
+2766: St-Germain-de-Grantham, Quebec
+2767: St-Gregoire-de-Greenlay, Quebec
+2768: St-Guillaume, Quebec
+2769: St-Hilarion, Quebec
+2770: St-Hippolyte, Quebec
+2771: St-Honore-de-Beauce, Quebec
+2772: St-Honore-de-Chicoutimi, Quebec
+2773: St-Hugues, Quebec
+2774: St-Irenee, Quebec
+2775: St-Isidore, New Brunswick
+2776: St-Jacques, Quebec
+2777: St-Jean-Chrysostome, Quebec
+2778: St-Jean-de-Dieu, Quebec
+2779: St-Jean-de-Matha, Quebec
+2780: St-Jean-Port-Joli, Quebec
+2781: St-Jean-sur-Richelieu, Quebec
+2782: St-Jerome, Quebec
+2783: St-Joseph-de-Beauce, Quebec
+2784: St-Joseph-de-la-Rive, Quebec
+2785: St-Joseph-de-Sorel, Quebec
+2786: St-Jovite, Quebec
+2787: St-Jude, Quebec
+2788: St-Just-de-Bretenieres, Quebec
+2789: St-Lambert, Quebec
+2790: St-Lambert-de-Lauzon, Quebec
+2791: St-Laurent, Quebec
+2792: St-Leon-le-Grand, Quebec
+2793: St-Leonard, Quebec
+2794: St-Leonard-d'Aston, Quebec
+2795: St-Liboire, Quebec
+2796: St-Lin, Quebec
+2797: St-Louis de Kent, New Brunswick
+2798: St-Louis-de-France, Quebec
+2799: St-Luc, Quebec
+2800: St-Ludger, Quebec
+2801: St-Magloire, Quebec
+2802: St-Malachie, Quebec
+2803: St-Malo, Quebec
+2804: St-Marc-des-Carrieres, Quebec
+2805: St-Methode-de-Frontenac, Quebec
+2806: St-Michel-de-Bellechasse, Quebec
+2807: St-Moose, Quebec
+2808: St-Nazaire-d'Acton, Quebec
+2809: St-Nicolas, Quebec
+2810: St-Noel, Quebec
+2811: St-Odilon-de-Cranbourne, Quebec
+2812: St-Ours, Quebec
+2813: St-Pacome, Quebec
+2814: St-Pamphile, Quebec
+2815: St-Pascal, Quebec
+2816: St-Patrice-de-Beaurivage, Quebec
+2817: St-Paul-de-Montminy, Quebec
+2818: St-Paul-d'Abbotsford, Quebec
+2819: St-Paulin, Quebec
+2820: St-Philippe-de-Neri, Quebec
+2821: St-Pie, Quebec
+2822: St-Pie-de-Guire, Quebec
+2823: St-Pierre, Quebec
+2824: St-Pierre-de-Wakefield, Quebec
+2825: St-Pierre-Jolys, Manitoba
+2826: St-Pierre-les-Becquets, Quebec
+2827: St-Polycarpe, Quebec
+2828: St-Prime, Quebec
+2829: St-Prosper-de-Dorchester, Quebec
+2830: St-Quentin, New Brunswick
+2831: St-Raymond, Quebec
+2832: St-Redempteur, Quebec
+2833: St-Remi, Quebec
+2834: St-Rene-de-Matane, Quebec
+2835: St-Roch-de-Mekinac, Quebec
+2836: St-Roch-des-Aulnaies, Quebec
+2837: St-Romuald, Quebec
+2838: St-Sauveur, Quebec
+2839: St-Sauveur-des-Monts, Quebec
+2840: St-Simeon, Quebec
+2841: St-Simon-de-Bagot, Quebec
+2842: St-Simon-de-Rimouski, Quebec
+2843: St-Sylvere, Quebec
+2844: St-Sylvestre, Quebec
+2845: St-Theophile, Quebec
+2846: St-Thomas-d'Aquin, Quebec
+2847: St-Timothee, Quebec
+2848: St-Tite, Quebec
+2849: St-Tite-des-Caps, Quebec
+2850: St-Ubalde, Quebec
+2851: St-Ulric, Quebec
+2852: St-Urbain, Quebec
+2853: St-Victor, Quebec
+2854: St-Wenceslas, Quebec
+2855: St-Zacharie, Quebec
+2856: St-Zenon, Quebec
+2857: St-Zephirin, Quebec
+2858: St-Zotique, Quebec
+2859: St. Alban's, Newfoundland
+2860: St. Albert, Alberta
+2861: St. Ambroise de Chicoutimi, Quebec
+2862: St. Anthony, Newfoundland
+2863: St. Basile de Portneuf, Quebec
+2864: St. Benedict, Saskatchewan
+2865: St. Bernard de Dorchester, Quebec
+2866: St. Bernard's-Jacques Fontaine, Newfoundland
+2867: St. Brendan's, Newfoundland
+2868: St. Bride's, Newfoundland
+2869: St. Brieux, Saskatchewan
+2870: St. Catharines, Ontario
+2871: St. Charles, Ontario
+2872: St. Claude, Manitoba
+2873: St. Clements, Ontario
+2874: St. Come de Kennebec, Quebec
+2875: St. Davids, Ontario
+2876: St. Edouard de Frampton, Quebec
+2877: St. Fabien de Rimouski, Quebec
+2878: St. Ferdinand d'Halifax, Quebec
+2879: St. Fidele, Quebec
+2880: St. Francois Xavier, Manitoba
+2881: St. Gabriel de Rimouski, Quebec
+2882: St. Gedeon de Beauce, Quebec
+2883: St. George, New Brunswick
+2884: St. George, Ontario
+2885: St. George's, Newfoundland
+2886: St. Gregoire de Nicolet, Quebec
+2887: St. Gregor, Saskatchewan
+2888: St. Henri de Levis, Quebec
+2889: St. Honore, Quebec
+2890: St. Isidore de Prescott, Ontario
+2891: St. Jacobs, Ontario
+2892: St. Jacques-Coomb's Cove, Newfoundland
+2893: St. Jean Baptiste, Manitoba
+2894: St. John's, Newfoundland
+2895: St. Laurent, Manitoba
+2896: St. Lawrence, Newfoundland
+2897: St. Lazare, Manitoba
+2898: St. Leon De Chic., Quebec
+2899: St. Leonard, New Brunswick
+2900: St. Lewis, Newfoundland
+2901: St. Louis, Saskatchewan
+2902: St. Lunaire-Griquet, Newfoundland
+2903: St. Margaret Village, Nova Scotia
+2904: St. Martin de Beauce, Quebec
+2905: St. Martins, New Brunswick
+2906: St. Marys, Ontario
+2907: St. Mary's, Newfoundland
+2908: St. Michael, Alberta
+2909: St. Moise, Quebec
+2910: St. Paul, Alberta
+2911: St. Peters, Prince Edward Island
+2912: St. Peter's, Nova Scotia
+2913: St. Raphael de Bellechasse, Quebec
+2914: St. Regis, Ontario
+2915: St. Sebastien, Quebec
+2916: St. Stanislas de Champlain, Quebec
+2917: St. Stephen, New Brunswick
+2918: St. Theodore de Chertsey, Quebec
+2919: St. Thomas, Ontario
+2920: St. Victor de Beauce, Quebec
+2921: St. Vincent de Paul, Quebec
+2922: St. Vincent's-St. Stephen's-Pe, Newfoundland
+2923: St. Walburg, Saskatchewan
+2924: Stand Off, Alberta
+2925: Standard, Alberta
+2926: Stanley, New Brunswick
+2927: Stanley Mission, Saskatchewan
+2928: Stanstead, Quebec
+2929: Star City, Saskatchewan
+2930: Starbuck, Manitoba
+2931: Stavely, Alberta
+2932: Stayner, Ontario
+2933: Ste-Adele, Quebec
+2934: Ste-Agathe, Quebec
+2935: Ste-Agathe-des-Monts, Quebec
+2936: Ste-Agathe-Sud, Quebec
+2937: Ste-Anne-de-Beaupre, Quebec
+2938: Ste-Anne-de-Bellevue, Quebec
+2939: Ste-Anne-de-la-Perade, Quebec
+2940: Ste-Anne-de-Madawaska, New Brunswick
+2941: Ste-Anne-de-Portneuf, Quebec
+2942: Ste-Anne-des-Monts, Quebec
+2943: Ste-Anne-des-Plaines, Quebec
+2944: Ste-Anne-du-Lac, Quebec
+2945: Ste-Blandine, Quebec
+2946: Ste-Brigitte-de-Laval, Quebec
+2947: Ste-Catherine, Quebec
+2948: Ste-Clotilde-de-Horton, Quebec
+2949: Ste-Eulalie, Quebec
+2950: Ste-Felicite, Quebec
+2951: Ste-Foy, Quebec
+2952: Ste-Genevieve, Quebec
+2953: Ste-Helene-de-Bagot, Quebec
+2954: Ste-Henedine, Quebec
+2955: Ste-Jeanne-d'Arc, Quebec
+2956: Ste-Julie, Quebec
+2957: Ste-Julie-de-Vercheres, Quebec
+2958: Ste-Julienne, Quebec
+2959: Ste-Justine, Quebec
+2960: Ste-Lucie-de-Beauregard, Quebec
+2961: Ste-Madeleine, Quebec
+2962: Ste-Marguerite, Quebec
+2963: Ste-Marie-de-Beauce, Quebec
+2964: Ste-Marie-de-Blandford, Quebec
+2965: Ste-Marthe, Quebec
+2966: Ste-Marthe-sur-le-Lac, Quebec
+2967: Ste-Perpetue, Quebec
+2968: Ste-Petronille, Quebec
+2969: Ste-Rosalie, Quebec
+2970: Ste-Rose, Quebec
+2971: Ste-Rose-de-Watford, Quebec
+2972: Ste-Rose-du-Nord, Quebec
+2973: Ste-Sophie-de-Levrard, Quebec
+2974: Ste-Thecle, Quebec
+2975: Ste-Therese, Quebec
+2976: Ste-Veronique, Quebec
+2977: Ste-Victoire, Quebec
+2978: Ste. Agathe, Manitoba
+2979: Ste. Agathe de Lotbiniere, Quebec
+2980: Ste. Angele de Laval, Quebec
+2981: Ste. Cecile Masham, Quebec
+2982: Ste. Claire de Dorchester, Quebec
+2983: Ste. Croix de Lotbiniere, Quebec
+2984: Ste. Gertrude, Quebec
+2985: Ste. Justine de Newton, Quebec
+2986: Ste. Martine, Quebec
+2987: Ste. Methode de Frontenac, Quebec
+2988: Ste. Monique de Nicolet, Quebec
+2989: Ste. Rose du Lac, Manitoba
+2990: Steady Brook, Newfoundland
+2991: Steep Rock, Manitoba
+2992: Steinbach, Manitoba
+2993: Stellarton, Nova Scotia
+2994: Stephenville, Newfoundland
+2995: Stephenville Crossing, Newfoundland
+2996: Stettler, Alberta
+2997: Stevensville, Ontario
+2998: Stewart, British Columbia
+2999: Stewarttown, Ontario
+3000: Stewiacke, Nova Scotia
+3001: Stirling, Alberta
+3002: Stirling, Ontario
+3003: Stockholm, Saskatchewan
+3004: Stoke, Quebec
+3005: Stoke's Bay, Ontario
+3006: Stoneham, Quebec
+3007: Stonewall, Manitoba
+3008: Stoney Creek, Ontario
+3009: Stoney Point, Ontario
+3010: Stony Plain, Alberta
+3011: Stony Rapids, Saskatchewan
+3012: Storthoaks, Saskatchewan
+3013: Stouffville, Ontario
+3014: Stoughton, Saskatchewan
+3015: Straffordville, Ontario
+3016: Strasbourg, Saskatchewan
+3017: Stratford, Ontario
+3018: Stratford, Prince Edward Island
+3019: Stratford, Quebec
+3020: Strathclair, Manitoba
+3021: Strathmore, Alberta
+3022: Strathroy, Ontario
+3023: Stratton, Ontario
+3024: Streetsville, Ontario
+3025: Strome, Alberta
+3026: Strongfield, Saskatchewan
+3027: Stroud, Ontario
+3028: Stukely-Sud, Quebec
+3029: Sturgeon Falls, Ontario
+3030: Sturgis, Saskatchewan
+3031: Sudbury, Ontario
+3032: Sultan, Ontario
+3033: Summer Beaver, Ontario
+3034: Summerford, Newfoundland
+3035: Summerland, British Columbia
+3036: Summerside, Newfoundland
+3037: Summerside, Prince Edward Island
+3038: Summerville, New Brunswick
+3039: Summit Lake, British Columbia
+3040: Sunderland, Ontario
+3041: Sundre, Alberta
+3042: Sundridge, Ontario
+3043: Sunnyside, Newfoundland
+3044: Surrey, British Columbia
+3045: Sussex, New Brunswick
+3046: Sutton, Ontario
+3047: Sutton, Quebec
+3048: Swan Hills, Alberta
+3049: Swan Lake, Manitoba
+3050: Swan River, Manitoba
+3051: Swastika, Ontario
+3052: Swift Current, Saskatchewan
+3053: Swift River, Yukon
+3054: Sydenham, Ontario
+3055: Sydney, Nova Scotia
+3056: Sylvan Lake, Alberta
+3057: Taber, Alberta
+3058: Tabusintac, New Brunswick
+3059: Tachie, British Columbia
+3060: Tadoule Lake, Manitoba
+3061: Tadoussac, Quebec
+3062: Tagish, Yukon
+3063: Tahsis, British Columbia
+3064: Tamworth, Ontario
+3065: Tangier, Nova Scotia
+3066: Tantallon, Saskatchewan
+3067: Tara, Ontario
+3068: Taschereau, Quebec
+3069: Tasiujaq, Quebec
+3070: Tatamagouche, Nova Scotia
+3071: Tatla Lake, British Columbia
+3072: Tavistock, Ontario
+3073: Taylor, British Columbia
+3074: Taylor Corners, Ontario
+3075: Tecumseh, Ontario
+3076: Teeswater, Ontario
+3077: Telegraph Creek, British Columbia
+3078: Telkwa, British Columbia
+3079: Temagami, Ontario
+3080: Temiscaming, Quebec
+3081: Terra Nova, Newfoundland
+3082: Terrace, British Columbia
+3083: Terrace Bay, Ontario
+3084: Terrasse Vaudreuil, Quebec
+3085: Terrebonne, Quebec
+3086: Terrenceville, Newfoundland
+3087: Teslin, Yukon
+3088: Tete-a-la-Baleine, Quebec
+3089: Teulon, Manitoba
+3090: Thamesford, Ontario
+3091: Thamesville, Ontario
+3092: The Eabametoong (Fort Hope) Fi, Ontario
+3093: The Pas, Manitoba
+3094: Thedford, Ontario
+3095: Theodore, Saskatchewan
+3096: Thessalon, Ontario
+3097: Thessalon First Nation, Ontario
+3098: Thetford Mines, Quebec
+3099: Thicket Portage, Manitoba
+3100: Thompson, Manitoba
+3101: Thorburn, Nova Scotia
+3102: Thorhild, Alberta
+3103: Thornbury, Ontario
+3104: Thorndale, Ontario
+3105: Thorne, Ontario
+3106: Thornhill, Ontario
+3107: Thorold, Ontario
+3108: Thorsby, Alberta
+3109: Three Hills, Alberta
+3110: Thrums, British Columbia
+3111: Thunder Bay, Ontario
+3112: Thurlow, Ontario
+3113: Thurso, Quebec
+3114: Tignish, Prince Edward Island
+3115: Tilbury, Ontario
+3116: Tilley, Alberta
+3117: Tillsonburg, Ontario
+3118: Timmins, Ontario
+3119: Tingwick, Quebec
+3120: Tisdale, Saskatchewan
+3121: Tiverton, Ontario
+3122: Toad River, British Columbia
+3123: Tobermory, Ontario
+3124: Tobique First Nation, New Brunswick
+3125: Tofield, Alberta
+3126: Tofino, British Columbia
+3127: Togo, Saskatchewan
+3128: Toledo, Ontario
+3129: Tomahawk, Alberta
+3130: Tompkins, Saskatchewan
+3131: Topley, British Columbia
+3132: Torbay, Newfoundland
+3133: Toronto, Ontario
+3134: Toronto Island, Ontario
+3135: Torquay, Saskatchewan
+3136: Torrington, Alberta
+3137: Tottenham, Ontario
+3138: Tracadie-Sheila, New Brunswick
+3139: Trail, British Columbia
+3140: Tramping Lake, Saskatchewan
+3141: Treherne, Manitoba
+3142: Tremblay, Quebec
+3143: Trenton, Nova Scotia
+3144: Trenton, Ontario
+3145: Trepassey, Newfoundland
+3146: Tribune, Saskatchewan
+3147: Tring-Jonction, Quebec
+3148: Triton, Newfoundland
+3149: Trochu, Alberta
+3150: Trois-Pistoles, Quebec
+3151: Trois-Rivieres, Quebec
+3152: Trout Creek, Ontario
+3153: Trout Lake, Alberta
+3154: Trout Lake, British Columbia
+3155: Trout Lake, Northwest Territories
+3156: Trout River, Newfoundland
+3157: Trowbridge, Ontario
+3158: Truro, Nova Scotia
+3159: Tsay Keh Dene, British Columbia
+3160: Tsiigehtchic, Northwest Territories
+3161: Tuktoyaktuk, Northwest Territories
+3162: Tumbler Ridge, British Columbia
+3163: Turner Valley, Alberta
+3164: Turnor Lake, Saskatchewan
+3165: Turtleford, Saskatchewan
+3166: Tusket, Nova Scotia
+3167: Tweed, Ontario
+3168: Twillingate, Newfoundland
+3169: Two Hills, Alberta
+3170: Tyne Valley, Prince Edward Island
+3171: Ucluelet, British Columbia
+3172: Udora, Ontario
+3173: Umiujaq, Quebec
+3174: Uniondale, Ontario
+3175: Unionville, Ontario
+3176: Unity, Saskatchewan
+3177: Upper Island Cove, Newfoundland
+3178: Upper Musquodoboit, Nova Scotia
+3179: Upper Stewiacke, Nova Scotia
+3180: Upsala, Ontario
+3181: Upton, Quebec
+3182: Uranium City, Saskatchewan
+3183: Utterson, Ontario
+3184: Uxbridge, Ontario
+3185: Val Marie, Saskatchewan
+3186: Val-Alain, Quebec
+3187: Val-Barrette, Quebec
+3188: Val-Belair, Quebec
+3189: Val-Brillant, Quebec
+3190: Val-David, Quebec
+3191: Val-des-Bois, Quebec
+3192: Val-d'Or, Quebec
+3193: Valcartier, Quebec
+3194: Valcourt, Quebec
+3195: Valemount, British Columbia
+3196: Vallee-Jonction, Quebec
+3197: Valley East, Ontario
+3198: Valleyview, Alberta
+3199: Vallican, British Columbia
+3200: Van Anda, British Columbia
+3201: Vancouver, British Columbia
+3202: Vanderhoof, British Columbia
+3203: Vanguard, Saskatchewan
+3204: Vanier, Ontario
+3205: Vanier, Quebec
+3206: Vankleek Hill, Ontario
+3207: Vanscoy, Saskatchewan
+3208: Varennes, Quebec
+3209: Vaudreuil, Quebec
+3210: Vaudreuil Dorion, Quebec
+3211: Vaudreuil-sur-le-Lac, Quebec
+3212: Vaughan, Ontario
+3213: Vauxhall, Alberta
+3214: Vavenby, British Columbia
+3215: Vegreville, Alberta
+3216: Venise-en-Quebec, Quebec
+3217: Vercheres, Quebec
+3218: Verdun, Quebec
+3219: Vermilion, Alberta
+3220: Vermilion Bay, Ontario
+3221: Verner, Ontario
+3222: Vernon, British Columbia
+3223: Vernon River, Prince Edward Island
+3224: Verona, Ontario
+3225: Veteran, Alberta
+3226: Vibank, Saskatchewan
+3227: Victoria, British Columbia
+3228: Victoria, Newfoundland
+3229: Victoria, Ontario
+3230: Victoriaville, Quebec
+3231: View Royal, British Columbia
+3232: Viking, Alberta
+3233: Ville-Marie, Quebec
+3234: Vilna, Alberta
+3235: Vimont, Quebec
+3236: Vineland, Ontario
+3237: Virden, Manitoba
+3238: Virginiatown, Ontario
+3239: Viscount, Saskatchewan
+3240: Vita, Manitoba
+3241: Vonda, Saskatchewan
+3242: Vulcan, Alberta
+3243: Waasagomach, Manitoba
+3244: Wabamun, Alberta
+3245: Wabana, Newfoundland
+3246: Wabigoon, Ontario
+3247: Wabowden, Manitoba
+3248: Wabush, Newfoundland
+3249: Wadena, Saskatchewan
+3250: Wainfleet, Ontario
+3251: Wainwright, Alberta
+3252: Wakaw, Saskatchewan
+3253: Wakefield, Quebec
+3254: Walden, Ontario
+3255: Waldheim, Saskatchewan
+3256: Walkerton, Ontario
+3257: Wallace, Nova Scotia
+3258: Wallaceburg, Ontario
+3259: Walsh, Alberta
+3260: Walton, Nova Scotia
+3261: Wandering River, Alberta
+3262: Wanham, Alberta
+3263: Wanless, Manitoba
+3264: Wapekeka First Nation, Ontario
+3265: Wapella, Saskatchewan
+3266: Warburg, Alberta
+3267: Warden, Quebec
+3268: Wardsville, Ontario
+3269: Warkworth, Ontario
+3270: Warman, Saskatchewan
+3271: Warner, Alberta
+3272: Warren, Ontario
+3273: Warspite, Alberta
+3274: Warwick, Quebec
+3275: Wasaga Beach, Ontario
+3276: Wasagaming, Manitoba
+3277: Waskaganish, Quebec
+3278: Waskatenau, Alberta
+3279: Waskesiu Lake, Saskatchewan
+3280: Waswanipi, Quebec
+3281: Waterdown, Ontario
+3282: Waterford, Ontario
+3283: Waterhen, Manitoba
+3284: Waterloo, Ontario
+3285: Waterloo, Quebec
+3286: Waterville, Quebec
+3287: Watford, Ontario
+3288: Watrous, Saskatchewan
+3289: Watson, Saskatchewan
+3290: Watson Lake, Yukon
+3291: Waubaushene, Ontario
+3292: Waverley, Nova Scotia
+3293: Wawa, Ontario
+3294: Wawanesa, Manitoba
+3295: Wawota, Saskatchewan
+3296: Webb, Saskatchewan
+3297: Webbwood, Ontario
+3298: Webequie, Ontario
+3299: Wedgeport, Nova Scotia
+3300: Weedon, Quebec
+3301: Weedon Centre, Quebec
+3302: Welcome, Ontario
+3303: Welland, Ontario
+3304: Wellandport, Ontario
+3305: Wellesley, Ontario
+3306: Wellington, Ontario
+3307: Wellington, Prince Edward Island
+3308: Wells, British Columbia
+3309: Welsford, New Brunswick
+3310: Welwyn, Saskatchewan
+3311: Wembley, Alberta
+3312: Wemindji, Quebec
+3313: Wendover, Quebec
+3314: Wesleyville, Newfoundland
+3315: West Brome, Quebec
+3316: West Guilford, Ontario
+3317: West Lincoln, Ontario
+3318: West Lorne, Ontario
+3319: West Vancouver, British Columbia
+3320: Westbank, British Columbia
+3321: Westbury, Quebec
+3322: Western Bay, Newfoundland
+3323: Westfield, New Brunswick
+3324: Westlock, Alberta
+3325: Westmeath, Ontario
+3326: Westmount, Quebec
+3327: Westport, Newfoundland
+3328: Westport, Ontario
+3329: Westree, Ontario
+3330: Westville, Nova Scotia
+3331: Westwold, British Columbia
+3332: Wetaskiwin, Alberta
+3333: Weyburn, Saskatchewan
+3334: Weymouth, Nova Scotia
+3335: Whale Cove, Nunavut
+3336: Wheatley, Ontario
+3337: Whistler, British Columbia
+3338: Whitbourne, Newfoundland
+3339: Whitby, Ontario
+3340: Whitchurch-Stouffville, Ontario
+3341: White Fox, Saskatchewan
+3342: White River, Ontario
+3343: White Rock, British Columbia
+3344: Whitecourt, Alberta
+3345: Whitefish, Ontario
+3346: Whitefish Falls, Ontario
+3347: Whitefish River First Nation, Ontario
+3348: Whitehorse, Yukon
+3349: Whitelaw, Alberta
+3350: Whitemouth, Manitoba
+3351: Whitewood, Saskatchewan
+3352: Whitney, Ontario
+3353: Whycocomagh, Nova Scotia
+3354: Wiarton, Ontario
+3355: Wickham, Quebec
+3356: Widewater, Alberta
+3357: Wikwemikong, Ontario
+3358: Wilberforce, Ontario
+3359: Wilcox, Saskatchewan
+3360: Wildwood, Alberta
+3361: Wilkie, Saskatchewan
+3362: Williams Lake, British Columbia
+3363: Williamsburg, Ontario
+3364: Willingdon, Alberta
+3365: Willow Bunch, Saskatchewan
+3366: Willowbrook, British Columbia
+3367: Winchester, Ontario
+3368: Windermere, Ontario
+3369: Windsor, Nova Scotia
+3370: Windsor, Ontario
+3371: Windsor, Quebec
+3372: Windthorst, Saskatchewan
+3373: Winfield, Alberta
+3374: Winfield, British Columbia
+3375: Wingham, Ontario
+3376: Winkler, Manitoba
+3377: Winnipeg, Manitoba
+3378: Winnipeg Beach, Manitoba
+3379: Winnipegosis, Manitoba
+3380: Winona, Ontario
+3381: Winter Harbour, British Columbia
+3382: Winterton, Newfoundland
+3383: Wiseton, Saskatchewan
+3384: Wishart, Saskatchewan
+3385: Witless Bay, Newfoundland
+3386: Woburn, Quebec
+3387: Woking, Alberta
+3388: Wolfville, Nova Scotia
+3389: Wollaston Lake, Saskatchewan
+3390: Wolseley, Saskatchewan
+3391: Wonowon, British Columbia
+3392: Wood Mountain, Saskatchewan
+3393: Woodbridge, Ontario
+3394: Woodridge, Manitoba
+3395: Woodstock, New Brunswick
+3396: Woodstock, Ontario
+3397: Woodville, Ontario
+3398: Woody Point, Newfoundland
+3399: Wooler, Ontario
+3400: Worsley, Alberta
+3401: Wotton, Quebec
+3402: Wrentham, Alberta
+3403: Wrigley, Northwest Territories
+3404: Wunnummin Lake, Ontario
+3405: Wynndel, British Columbia
+3406: Wynyard, Saskatchewan
+3407: Wyoming, Ontario
+3408: Yahk, British Columbia
+3409: Yale, British Columbia
+3410: Yamachiche, Quebec
+3411: Yamaska, Quebec
+3412: Yamaska-Est, Quebec
+3413: Yarker, Ontario
+3414: Yarmouth, Nova Scotia
+3415: Yellow Creek, Saskatchewan
+3416: Yellow Grass, Saskatchewan
+3417: Yellowknife, Northwest Territories
+3418: York, Ontario
+3419: Yorkton, Saskatchewan
+3420: Youbou, British Columbia
+3421: Young, Saskatchewan
+3422: Youngstown, Alberta
+3423: Young's Cove Road, New Brunswick
+3424: Zealandia, Saskatchewan
+3425: Zeballos, British Columbia
+3426: Zenon Park, Saskatchewan
+3427: Zurich, Ontario

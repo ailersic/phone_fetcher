@@ -1,7 +1,10 @@
-import urllib.request
+import urllib.request, sys
 from xlwings import *
 
-def get_details(html):
+def transpose(matrix):
+    return [[matrix[j][i] for j in range(len(matrix))] for i in range(len(matrix[0]))]
+
+def get_details(html411):
     detList = [[],[],[]]
     
     nameStart = "ContactName"
@@ -13,16 +16,16 @@ def get_details(html):
     
     appending = False
 
-    for i in range(len(html)):
-        if html[i:i + len(numStart)] == numStart:
+    for i in range(len(html411)):
+        if html411[i:i + len(numStart)] == numStart:
             appending = True
         
-        if appending and html[i:i + len(nameSubStart)] == nameSubStart:
+        if appending and html411[i:i + len(nameSubStart)] == nameSubStart:
             tmpstr = ""
             j = i + len(nameSubStart)
 
-            while html[j:j + len('">')] != '">':
-                tmpstr += html[j]
+            while html411[j:j + len('">')] != '">':
+                tmpstr += html411[j]
                 j += 1
 
             detList[0].append(tmpstr)
@@ -30,16 +33,16 @@ def get_details(html):
     
     appending = False
 
-    for i in range(len(html)):
-        if html[i:i + len(addStart)] == addStart:
+    for i in range(len(html411)):
+        if html411[i:i + len(addStart)] == addStart:
             appending = True
         
-        if appending and html[i] == ">":
+        if appending and html411[i] == ">":
             tmpstr = ""
             j = i + 1
 
-            while html[j:j + len('</span>')] != '</span>':
-                tmpstr += html[j]
+            while html411[j:j + len('</span>')] != '</span>':
+                tmpstr += html411[j]
                 j += 1
 
             detList[1].append(tmpstr)
@@ -47,15 +50,53 @@ def get_details(html):
     
     appending = False
 
-    for i in range(len(html)):
-        if html[i:i + len(numStart)] == numStart:
+    for i in range(len(html411)):
+        if html411[i:i + len(numStart)] == numStart:
             appending = True
         
-        if appending and html[i - 1] == ">":
-            detList[2].append(html[i:i + 14])
-            appending = False    
+        if appending and html411[i - 1] == ">":
+            detList[2].append(html411[i:i + 14])
+            appending = False
     
-    return detList
+    return transpose(detList)
+
+def get_riding(htmlParl):
+    ridingStart = 'ctl00_cphContent_repMP_ctl00_lblYellowBar'
+    
+    appending = False
+    start = 0
+
+    for i in range(len(htmlParl)):
+        if htmlParl[i:i + len(ridingStart)] == ridingStart:
+            i += len(ridingStart)
+            appending = True
+        
+        if appending and htmlParl[i] == ",":
+            return htmlParl[start:i]
+        
+        if appending and htmlParl[i] == ">":
+            tmpstr = ""
+            j = i + 1
+
+            while htmlParl[j] != ',':
+                tmpstr += htmlParl[j]
+                j += 1
+
+            return tmpstr.replace("--", "-")
+
+    return ""
+
+def read_cities():
+    cities = []
+    
+    with open('cities.txt') as f: textlist = f.read().splitlines()
+    
+    for city in textlist:
+        city = city.split(",")
+
+        cities.append(city[0].split(":")[1][1:])
+    
+    return cities
 
 def read_site_to_file(url):
     try:
@@ -63,37 +104,80 @@ def read_site_to_file(url):
     except urllib.error.URLError:
         return
     
-    file = site.read().decode("utf-8")
+    file = site.read().decode().replace("&#039;", "'")
     site.close()
     
     return file
 
 def excel_style(row, col):
     result = []
-    LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+    alpha = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
     while col:
-        col, rem = divmod(col-1, 26)
-        result[:0] = LETTERS[rem]
+        col, rem = divmod(col - 1, 26)
+        result[:0] = alpha[rem]
 
     return ''.join(result) + str(row)
 
-if __name__ == '__main__':
-    pcode = input("Postal Codes (no spaces, separated by commas): ").split(",")
+def print_wb(contacts, pcode, row):
+    Range(excel_style(row + 1, 1)).value = contacts[0].split(" ")[0]
+    Range(excel_style(row + 1, 2)).value = ' '.join(contacts[0].split(" ")[1:])
+
+    Range(excel_style(row + 1, 3)).value = contacts[2].replace("(", "").replace(")", "").replace(" ", "-")
     
-    domain = "http://www.canada411.ca/search/?stype=pc&pc="
+    cities = read_cities()
+    matches = [[],[]]
+
+    for i in range(len(contacts[1])):
+        for j in range(len(contacts[1])):
+            if contacts[1][i:j] in cities:
+                matches[0].append(contacts[1][:i - 1])
+                matches[1].append(contacts[1][i:j])
+    
+    matches = transpose(matches)
+    
+    match = ["",""]
+
+    for tmpmatch in matches:
+        if len(tmpmatch[1]) > len(match[1]):
+            match = tmpmatch
+
+    Range(excel_style(row + 1, 4)).value = match[0]
+    Range(excel_style(row + 1, 5)).value = match[1]
+
+    Range(excel_style(row + 1, 6)).value = pcode
+    Range(excel_style(row + 1, 7)).value = contacts[3]
+
+if __name__ == '__main__':
+    pcode = input("Postal Codes: ").split(",")
+    
+    domain411 = "http://www.canada411.ca/search/?stype=pc&pc="
+    domainParl = "http://www.parl.gc.ca/Parlinfo/Compilations/HouseOfCommons/MemberByPostalCode.aspx?Menu=HOC&PostalCode="
     
     contacts = []
 
     for i in range(len(pcode)):
-        html = read_site_to_file(domain + pcode[i])
-        contacts.append(get_details(html))
-    
-    wb = Workbook()
-    for i in range(len(contacts)):
-        Range(excel_style(1, 3 * i + 1)).value = pcode[i]
+        tmpcode = pcode[i].split(" ")
+        html411 = read_site_to_file(domain411 + tmpcode[0] + "+" + tmpcode[1])
         
-        for j in range(len(contacts[i][0])):
-            Range(excel_style(j + 2, 3 * i + 1)).value = contacts[i][0][j]
-            Range(excel_style(j + 2, 3 * i + 2)).value = contacts[i][1][j]
-            Range(excel_style(j + 2, 3 * i + 3)).value = contacts[i][2][j]
+        try:
+            contacts.append(get_details(html411))
+        except TypeError:
+            break
+    
+    for i in range(len(pcode)):
+        tmpcode = pcode[i].split(" ")
+        htmlParl = read_site_to_file(domainParl + tmpcode[0] + tmpcode[1])     
+
+        for j in range(len(contacts[i])):
+            contacts[i][j].append(get_riding(htmlParl))
+
+    wb = Workbook()
+    
+    k = 0
+
+    for i in range(len(contacts)):
+        for j in range(len(contacts[i])):
+            print_wb(contacts[i][j], pcode[i], k)
+            
+            k += 1
