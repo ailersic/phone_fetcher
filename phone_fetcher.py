@@ -62,19 +62,14 @@ def get_details(html411):
 
 def get_riding(htmlParl):
     ridingStart = 'ctl00_cphContent_repMP_ctl00_lblYellowBar'
-    
-    appending = False
-    start = 0
 
-    for i in range(len(htmlParl)):
-        if htmlParl[i:i + len(ridingStart)] == ridingStart:
-            i += len(ridingStart)
-            appending = True
-        
-        if appending and htmlParl[i] == ",":
+    start = htmlParl.find(ridingStart) + len(ridingStart)
+
+    for i in range(start, len(htmlParl)):
+        if htmlParl[i] == ",":
             return htmlParl[start:i]
         
-        if appending and htmlParl[i] == ">":
+        if htmlParl[i] == ">":
             tmpstr = ""
             j = i + 1
 
@@ -104,7 +99,11 @@ def read_site_to_file(url):
     except urllib.error.URLError:
         return
     
-    file = site.read().decode().replace("&#039;", "'")
+    file = site.read().decode()
+
+    file.replace("&#039;", "'")
+    file.replace("&amp;", "&")
+
     site.close()
     
     return file
