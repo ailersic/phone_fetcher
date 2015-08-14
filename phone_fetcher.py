@@ -84,7 +84,7 @@ def get_riding(htmlParl):
 def read_cities():
     cities = []
     
-    with open('cities.txt') as f: textlist = f.read().splitlines()
+    with open('cities.txt', 'r', encoding = "ISO-8859-1") as f: textlist = f.read().splitlines()
     
     for city in textlist:
         city = city.split(",")
