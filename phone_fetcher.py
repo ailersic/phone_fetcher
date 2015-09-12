@@ -97,7 +97,7 @@ def read_site_to_file(url):
     try:
         site = urllib.request.urlopen(url)
     except urllib.error.URLError:
-        return
+        return None
     
     file = site.read().decode()
 
@@ -159,6 +159,12 @@ if __name__ == '__main__':
         tmpcode = pcode[i].split(" ")
         html411 = read_site_to_file(domain411 + tmpcode[0] + "+" + tmpcode[1])
         
+        if html411 == None:
+            print("Website error!")
+            for j in range(len(contacts[i])):
+                contacts[i][j].append("ERROR: CONTACT INFO NOT FOUND")            
+            break
+        
         try:
             contacts.append(get_details(html411))
         except TypeError:
@@ -166,10 +172,17 @@ if __name__ == '__main__':
     
     for i in range(len(pcode)):
         tmpcode = pcode[i].split(" ")
-        htmlParl = read_site_to_file(domainParl + tmpcode[0] + tmpcode[1])     
-
-        for j in range(len(contacts[i])):
-            contacts[i][j].append(get_riding(htmlParl))
+        htmlParl = read_site_to_file(domainParl + tmpcode[0] + tmpcode[1])
+        
+        if htmlParl == None:
+            print("Website error!")
+            for j in range(len(contacts[i])):
+                contacts[i][j].append("ERROR: RIDING NOT FOUND")
+            break
+        
+        else:
+            for j in range(len(contacts[i])):
+                contacts[i][j].append(get_riding(htmlParl))
 
     wb = Workbook()
     
